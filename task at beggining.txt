@@ -1,0 +1,480 @@
+Raja — 01/17/2023 1:29 PM
+import pandas as pd
+
+df_list=["object-detection.xlsx","2n-place-solution.xlsx","hackerank.xlsx","Worksheet01.xlsx"]
+
+def findSheet(regex):
+    sheet_list=[]
+    newDfList=[]
+    # found=[]
+    for i in range(len(df_list)):
+        readedfile=pd.read_excel(df_list[i],sheet_name=None)
+        sheets=readedfile.keys()
+        for sheet in sheets:
+            content=readedfile[sheet]
+            content2=str(content)
+            import re
+            matches=re.finditer(regex, content2)
+            for j,match in enumerate(matches):
+                   if match!=0:
+                        # found.append(match.group())
+                        sheet_list.append(sheet)
+                        newDfList.append(df_list[i])
+                        break
+    return newDfList,sheet_list
+print(findSheet("import"))
+``````
+py
+Image
+bibhuti mukhiya — 01/17/2023 1:42 PM
+def findSheet(regex):
+    sheets=df.keys()
+    for sheet in sheets:
+        content=df[sheet]
+        content2=str(content)
+        import re
+        matches = re.finditer(regex, content2)
+        found = []
+        sheet_list=[]
+        for i,match in enumerate(matches):
+            found.append(match.group())
+
+        return 'this is from ' + sheet
+findSheet(' ')
+regex="Avery Bradley"
+content=str(df.values())
+def searchWordWithRegex(regex,content):
+    import re
+    matches = re.finditer(regex, content)
+    found = []
+    for i,match in enumerate(matches):
+        found.append(match.group())
+    return found
+
+searchWordWithRegex(regex,content)
+bibhuti mukhiya — 01/18/2023 1:43 PM
+'''py
+list1=[1,4,6,4,1]
+output=[]
+
+i=0
+for j in range(1,len(list1)):
+    output.append(list1[i]+list1[j])
+    i+=1
+
+print(output)
+''' 
+bibhuti mukhiya — 01/24/2023 3:59 PM
+def letterToValue(letter:str):
+    letter=letter.lower()   
+    if 'i'==letter: 
+        return 1
+    if 'v'==letter:
+        return 5
+    if 'x'==letter:
+        return 10
+    if 'l'==letter:
+        return 50
+    if 'c'==letter:
+        return 100
+    if 'd'==letter:
+        return 500
+    if 'm'==letter:
+        return 1000
+    
+def checkForX(nx):   
+    if nx=='l':
+        return 40,2
+    if nx=='c':
+        return 90,2
+    return 10,1
+
+def checkForI(ni):   
+    if ni=='v':
+        return 4,2
+    if ni=='x':
+        return 9,2
+    return 1,1
+
+def checkForC(nc):   
+    if nc=='d':
+        return 400,2
+    if nc=='m':
+        return 900,2
+    return 100,1 
+
+def romanToValue(letter:str):
+    total=0
+    check=''
+    index=0
+    while index<len(letter):
+        check=letter[index]
+        ei=1
+        val=letterToValue(check)
+        if check=='x':
+            if index+1<len(letter):
+                val,ei=checkForX(letter[index+1])
+            else:
+                val,ei=checkForX(None)
+        if check=='i':
+            if index+1<len(letter):
+                val,ei=checkForI(letter[index+1])
+            else:
+                val,ei=checkForI(None)
+        if check=='c':
+            if index+1<len(letter):
+                val,ei=checkForC(letter[index+1])
+            else:
+                val,ei=checkForC(None)
+        index+=ei
+        total+=val
+    return total
+romanToValue('mcmxcix')
+bibhuti mukhiya — 01/26/2023 11:35 PM
+Attachment file type: unknown
+numberToRoman.ipynb
+6.43 KB
+def checkForI(n):
+    a='i'*n
+    return a
+
+def checkForC(n):
+    if 200==n:
+        return 'cc'
+    if 300==n:
+        return 'ccc'
+
+def checkForM(n):
+    if 2000==n:
+        return 'm'
+    if 3000==n:
+        return 'mmm'
+def checkForV(n):
+    if n==4:
+        return 'iv'
+    if n==5:
+        return 'v'
+    if n==6:
+        n=1
+        n='v'+checkForI(n)
+        return n
+    if n==7:
+        n=2
+        n='v'+checkForI(n)
+        return n
+    if n==8:
+        n=3
+        n='v'+checkForI(n)
+        return n
+
+def valueToLetter(value):
+    if 5==value:
+        return 'v'
+    if value//10 and value<40:
+        if value==20:
+            return 'xx'
+        if value==30:
+            return 'xxx'
+        return 'x'
+    if 50==value:
+        return 'l'
+    if 40==value:
+        return 'xl'
+    if 100==value:
+        return 'c'
+    if 90==value:
+        return 'xc'
+    if 500==value:
+        return 'd'
+    if 400==value:
+        return 'cd'
+    if 1000==value:
+        return 'm'
+    if 900==value:
+        return 'cm'
+    
+def checkForX(n):
+    if n==9:
+        return 'ix'
+    
+def checkL(n):
+    a='x'*n
+    return a
+def checkForL(n):
+     if n==60:
+        n=1
+        n='l'+checkL(n)
+        return n
+     if n==70:
+        n=2
+        n='l'+checkL(n)
+        return n
+     if n==80:
+        n=3
+        n='l'+checkL(n)
+        return n
+    
+def checkD(n):
+    a='c'*n
+    return a
+def checkForD(n):
+     if n==600:
+        n=1
+        n='d'+checkD(n)
+        return n
+     if n==700:
+        n=2
+        n='d'+checkD(n)
+        return n
+     if n==800:
+        n=3
+        n='d'+checkD(n)
+        return n
+nums='999'
+z=''
+a='0'
+z1=len(nums)-1
+for num in nums:
+    if num=='0':
+        z1-=1
+        continue
+    z=num+z1*a
+    int_num=int(z)
+    if int_num<4:
+        int1=checkForI(int_num)
+    elif int_num>=4 and int_num<=8:
+        int1=checkForV(int_num)
+    elif int_num==9:
+        int1=checkForX(int_num)
+    elif int_num>50 and int_num<=80:
+        int1=checkForL(int_num)
+    elif int_num>100 and int_num<=300:
+        int1=checkForC(int_num)
+    elif int_num>500 and int_num<=800:
+        int1=checkForD(int_num)
+    elif int_num>1000 and int_num<=3000:
+        int1=checkForM(int_num)
+    else:
+        int1=valueToLetter(int_num)
+    z1-=1
+    print(int1,end='')
+bibhuti mukhiya — 01/27/2023 3:19 PM
+https://leetcode.com/problems/longest-common-prefix/
+LeetCode
+Longest Common Prefix - LeetCode
+Longest Common Prefix - Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+
+ 
+
+Example 1:
+
+
+Input: strs = ["flower","flow","flight"]
+Output: "fl"
+
+
+Example 2:
+
+
+Input: strs = ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix amon...
+Longest Common Prefix - LeetCode
+bibhuti mukhiya — 01/30/2023 1:11 PM
+def commonWord(a,b):
+    output=''
+    for i in range(len(b)):
+        if len(a)==i:
+            break
+        if a[i]==b[i]:
+            output+=a[i]
+        else:
+            if a[i]!=b[i]:
+                break
+    return output
+commonWord('flower','fliwht')
+bibhuti mukhiya — 01/31/2023 2:02 PM
+commonWord
+def commonWord(a,b):
+    output=''
+    for i in range(len(b)):
+        if len(a)==i:
+            break
+        if a[i]==b[i]:
+            output+=a[i]
+        else:
+            break
+    return output
+commonWord('flow','flew')
+strs = ["flower","flow","floight"]
+pre=strs[0]
+for i in range(1,len(strs)):
+    val=strs[i]
+    pre=commonWord(pre,val)
+print(pre)
+ 
+bibhuti mukhiya — 02/04/2023 12:32 AM
+import math
+def turnRadius(w,sa):
+    if sa==0:
+        r=(-1)*w/math.sin(math.radians(360-sa))
+    else:
+        r=w/math.sin(math.radians(sa))
+    return r
+
+def angle(d,r):
+    theta=(d*360)/(2*math.pi*r)
+    return theta
+
+def yPoint(a,r):
+    y=math.sin(math.radians(a))*r
+    return y
+
+def xPoint(a,r):
+    x=math.cos(math.radians(a))*r
+    x=r-x
+    return x
+
+def solutionPosition2(w,d,sa):
+    r=turnRadius(w,sa)
+    a=angle(d,r)
+    x=round(xPoint(a,r),2)
+    y=round(yPoint(a,r),2)
+    if a<0:
+        if a>-360:
+            a=round(360+a,2)
+        else:
+            a=round(720+a,2)
+    else:
+        a=round(a,2)
+    return x,y,a
+
+print(solutionPosition2(9.53, 8.12, 0.00))
+bibhuti mukhiya — 03/28/2023 4:35 PM
+# level 3 solution
+import math
+def turnRadius(w,sa):
+    r=w/math.sin(math.radians(sa))
+    return r
+
+def movingWithZero(w):
+    r=w/math.sin(math.radians(360))
+    return r
+
+def angle(d,r):
+    radians=d/r
+    degrees=radians*360/(2*math.pi)
+    return degrees
+
+def yPoint(a,r):
+    y=math.sin(math.radians(a))*r
+    return y
+
+def xPoint(a,r):
+    x=math.cos(math.radians(a))*r
+    x=r-x
+    return x
+
+def solution3(w,d,sa):
+    if sa==0:
+        r=movingWithZero(w)
+        a=angle(d,r)
+    else:
+        r=turnRadius(w,sa)
+        a=angle(d,r)
+    x=xPoint(a,r)
+    y=yPoint(a,r)
+    return round(x,4),round(y,4),round(a,4)
+
+def rotationVector(x,y,a):
+    x1=(math.cos(math.radians(a))*x)+(math.sin(math.radians(a))*y)
+    y1=((-math.sin(math.radians(a)))*x)+(math.cos(math.radians(a))*y)
+    return round(x1,4), round(y1,4),a
+
+def lines(val):
+    list2=val.split()
+    list1=[]
+    for i in list2:
+        list1+=[float(i)]
+    w=list1.pop(0)
+    sgm=list1.pop(0)
+    lines=[]
+    if sgm!=1:
+        for i in range(int(sgm)):
+            d=list1.pop(0)
+            sa=list1.pop(0)
+            lines+=[solution3(w,d,sa)]
+    else:
+        lines+=[solution3(w,list1[0],list1[1])]
+    return lines
+def rotatedlines(lines):
+    rotate=[]
+    j=0
+    ang=0
+    for i in range(1,len(lines)):
+        rotate+=[rotationVector(lines[i][0],lines[i][1],lines[j][2]+ang)]
+        ang+=lines[j][2]
+        j+=1
+    return rotate
+
+def direction(segment):
+    new_direction=float()
+    for i in range(len(segment)):
+        new_direction+=segment[i][2]
+    if new_direction>=360:
+        new_direction=float(new_direction%360)
+    if new_direction<0:
+        new_direction=360+new_direction
+
+    return new_direction
+
+def inputValue(val):
+    segment=lines(val)
+    print(segment)
+    rotate=rotatedlines(segment)
+    print(rotate)
+    x=segment[0][0]
+    y=segment[0][1]
+    for i in range(len(rotate)):
+        x+=rotate[i][0]
+        y+=rotate[i][1]
+    new_direction=direction(segment)    
+    print(round(x,2), round(y,2), round(new_direction,2))
+    # return round(x,2), round(y,2), round(new_direction,2)
+
+val='''9.53 10 -1.00 1.00 -2.00 2.00 3.00 -3.00 4.00 4.00 5.00 -5.00 6.00 6.00 7.00 7.00 -8.00 8.00 9.00 9.00 10.00 -10.00'''
+
+# 9.53 10 -1.00 1.00 -2.00 2.00 3.00 -3.00 4.00 4.00 5.00 -5.00 6.00 6.00 7.00 7.00 -8.00 8.00 9.00 9.00 10.00 -10.00
+
+inputValue(val) 
+
+# 0.26 1.98 0.0
+# -0.26 1.98 0.0
+# 0.13 1.99 0.0
+# 0.26 1.98 0.0
+bibhuti mukhiya — 05/03/2023 5:04 PM
+import os
+
+try:
+    os.system('django-admin --version')
+except:
+    os.system('pip install django')
+
+path=input('enter project path : ')
+project_name=os.path.split(path)
+if project_name[0]=='':
+    os.system(f"django-admin startproject {project_name[1]}")
+else:
+    os.chdir(f'{project_name[0]}')
+    os.system(f"django-admin startproject {project_name[1]}")   
+
+# pip install pyinstaller
+# pyinstaller autocreateproject.py --onefile
+bibhuti mukhiya — 05/12/2023 1:31 PM
+Attachment file type: unknown
+mysite_django.drawio
+506.77 KB
+bibhuti mukhiya — 05/12/2023 1:40 PM
+https://github.com/Bibhuti4086mukhiya/basic-understanding-of-django-mysite-project

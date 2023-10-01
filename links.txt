@@ -1,0 +1,299 @@
+Raja — 12/03/2022 8:17 PM
+https://meet.google.com/spw-ufpb-bqr
+Meet
+Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.
+Image
+Raja — 12/04/2022 8:11 PM
+https://meet.google.com/noj-dbdy-tgk
+Meet
+Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.
+Image
+Raja — 12/04/2022 8:58 PM
+https://www.kaggle.com/code/kanantaghiyev/object-detection
+Object detection
+Explore and run machine learning code with Kaggle Notebooks | Using data from Image Matching Challenge 2022
+Image
+https://www.kaggle.com/competitions/feedback-prize-english-language-learning/data
+Feedback Prize - English Language Learning
+Evaluating language knowledge of ELL students from grades 8-12
+https://www.kaggle.com/competitions/feedback-prize-2021/code
+Feedback Prize - Evaluating Student Writing
+Analyze argumentative writing elements from students grade 6-12
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
+MachineLearningMastery.com
+Jason Brownlee
+How to Develop a CNN for MNIST Handwritten Digit Classification - M...
+How to Develop a Convolutional Neural Network From Scratch for MNIST Handwritten Digit Classification. The MNIST handwritten digit classification problem is a standard dataset used in computer vision and deep learning. Although the dataset is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, an...
+How to Develop a CNN for MNIST Handwritten Digit Classification - M...
+Raja — 12/04/2022 10:47 PM
+https://meet.google.com/cto-wcra-eyf
+Meet
+Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.
+Image
+Raja — 12/09/2022 11:14 PM
+https://app.clickup.com/
+Raja — 01/02/2023 1:24 PM
+https://www.kaggle.com/competitions/google-universal-image-embedding/code
+Google Universal Image Embedding
+Create image representations that work across many visual domains
+bibhuti mukhiya — 01/02/2023 5:17 PM
+https://www.kaggle.com/code/dhanrajbhosale/team-9-anc-project-universal-image-embedding
+Team 9 ANC Project - Universal Image Embedding
+Explore and run machine learning code with Kaggle Notebooks | Using data from multiple data sources
+Image
+bibhuti mukhiya — 01/09/2023 3:51 PM
+https://neilchasefilm.com/best-ai-story-generator/
+https://www.codingem.com/best-ai-story-generators/
+https://topten.ai/best-ai-story-generators-review/
+Neil Chase Film
+7+ Best AI Story Generator Tools for Fiction Writers (2023)
+These are the top five best AI story generator tools that will help you write an exciting plot for your next novel. Click here to learn more!
+7+ Best AI Story Generator Tools for Fiction Writers (2023)
+codingem.com
+Artturi Jalli
+7 Best AI Story Generators of 2023 (Fiction, Novels, Short Stories)
+This is a comprehensive guide to choosing the best AI story writers for writing compelling novels and short stories.
+7 Best AI Story Generators of 2023 (Fiction, Novels, Short Stories)
+TopTen.ai
+Top 10 AI Story Generators for Creative Writing - TopTen.ai
+Check out the detailed reviews of the best AI story generator websites, to create instant scripts and written content.
+Top 10 AI Story Generators for Creative Writing - TopTen.ai
+bibhuti mukhiya — 01/10/2023 3:50 PM
+https://neptune.ai/blog/debugging-deep-learning-model-training
+neptune.ai
+9 Steps of Debugging Deep Learning Model Training - neptune.ai
+The first computer bug was literally a bug. A moth entered one of the computing machines at Harvard University in 1947 and caused a disruption in the computations. When engineers opened the computer box, they quickly detected the bug that was causing the problems. Nowadays, it is very unlikely that a bug will crawl into…
+9 Steps of Debugging Deep Learning Model Training - neptune.ai
+bibhuti mukhiya — 01/10/2023 4:55 PM
+https://towardsdatascience.com/debugging-neural-networks-abdc6273a3f1
+Medium
+Debugging Neural Networks
+Traditional software development has established four stages of testing software: Unit testing, integration testing, system testing, and…
+https://neptune.ai/blog/best-ml-experiment-tracking-tools
+neptune.ai
+15 Best Tools for ML Experiment Tracking and Management - neptune.ai
+While working on a machine learning project, getting good results from a single model-training run is one thing. But keeping all of your machine learning experiments well organized and having a process that lets you draw valid conclusions from them is quite another.  The answer to these needs is experiment tracking. In machine learning, experime...
+15 Best Tools for ML Experiment Tracking and Management - neptune.ai
+bibhuti mukhiya — 01/11/2023 1:45 PM
+<table class="c-table">
+                    <thead class="c-table__head">
+                <tr>
+                    <td class="c-item"></td>
+
+                                            <td class="c-item" style="min-width: 180px">
+... (523 KB left)
+Expand
+table.html
+573 KB
+Raja — 01/16/2023 1:40 PM
+https://leetcode.com/problemset/all/
+Raja — 01/27/2023 2:51 PM
+https://catcoder.codingcontest.org/
+bibhuti mukhiya — 02/27/2023 1:13 PM
+https://www.youtube.com/watch?v=0aJBtUOXpsk&list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&index=32
+YouTube
+Professor Dave Explains
+Adding and Subtracting Polynomials
+Image
+Raja — 02/27/2023 1:20 PM
+https://drmathnp.com/books/new-arrivals/opt-maths-10/#p=1
+Optional Mathematics Grade 10 by D.R. Simkhada
+Optional Mathematics Grade 10 by D.R. Simkhada. This book is strictly written as per the curriculum developed by the Government of Nepal, CDC, Sanothimi for Grade 10 students.
+bibhuti mukhiya — 04/10/2023 4:42 PM
+https://beebom.com/how-build-own-ai-chatbot-with-chatgpt-api/
+Beebom
+Arjun Sha
+How to Build Your Own AI Chatbot With ChatGPT API: A Step-by-Step T...
+Follow our guide and build your own AI Chatbot with ChatGPT API. You can use the gpt-3.5-turbo model and Gradio to create a friendly chatbot.
+How to Build Your Own AI Chatbot With ChatGPT API: A Step-by-Step T...
+bibhuti mukhiya — 04/19/2023 4:38 PM
+https://github.com/AIAdvantage/chatgpt-api-youtube
+GitHub
+GitHub - AIAdvantage/chatgpt-api-youtube: 3 ChatGPT Api Apps
+3 ChatGPT Api Apps. Contribute to AIAdvantage/chatgpt-api-youtube development by creating an account on GitHub.
+GitHub - AIAdvantage/chatgpt-api-youtube: 3 ChatGPT Api Apps
+bibhuti mukhiya — 04/21/2023 1:34 PM
+https://www.w3schools.com/django/index.php
+W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.
+Image
+bibhuti mukhiya — 04/21/2023 2:02 PM
+https://www.wg-gesucht.de/
+WG-Gesucht.de
+WG Zimmer Wohnungen Wohnungssuche WG Suche WG Wohnung vermieten WG ...
+WG-Gesucht. Eines der größten Portale Europas für WG-Zimmer & Wohnungen zur Miete. Mehrfacher Testsieger ✓ 16,98 Millionen Nutzer, 200.000 Anzeigen pro Monat.
+Image
+Raja — 06/11/2023 5:19 PM
+https://app.clickup.com/36712363/v/li/900601654832
+clickup.com
+ClickUp
+Raja — 06/15/2023 4:59 PM
+https://github.com/Bibhuti4086mukhiya/cat-coder
+GitHub
+GitHub - Bibhuti4086mukhiya/cat-coder
+Contribute to Bibhuti4086mukhiya/cat-coder development by creating an account on GitHub.
+GitHub - Bibhuti4086mukhiya/cat-coder
+bibhuti mukhiya — 06/15/2023 5:00 PM
+level 1 auction bidding
+https://github.com/Bibhuti4086mukhiya/cat-coder/blob/master/auction%20bidding/solutions/level%201.py 
+bibhuti mukhiya — 06/19/2023 2:47 PM
+level 2 auction bidding
+https://github.com/Bibhuti4086mukhiya/cat-coder/blob/master/auction%20bidding/solutions/level%202.py 
+bibhuti mukhiya — 06/23/2023 3:16 PM
+level 3 auction bidding
+https://github.com/Bibhuti4086mukhiya/cat-coder/blob/master/auction%20bidding/solutions/level_3.py 
+bibhuti mukhiya — 06/26/2023 1:54 PM
+level 4  auction bidding
+https://github.com/Bibhuti4086mukhiya/cat-coder/blob/master/auction%20bidding/solutions/level_4.py 
+bibhuti mukhiya — 06/28/2023 12:42 PM
+level 1 auction bidding again
+https://github.com/Bibhuti4086mukhiya/cat-coder/blob/master/auction%20bidding/solutions/re-do%20auction%20bidding/level%201.1.py
+bibhuti mukhiya — 06/30/2023 2:15 PM
+level 2 auction bidding again
+https://github.com/Bibhuti4086mukhiya/cat-coder/blob/master/auction%20bidding/solutions/re-do%20auction%20bidding/level%202.1.py
+bibhuti mukhiya — 07/03/2023 4:54 PM
+level 2 improved code
+https://github.com/Bibhuti4086mukhiya/cat-coder/blob/master/auction%20bidding/solutions/re-do%20auction%20bidding/level%202.1.py
+bibhuti mukhiya — 07/05/2023 4:02 PM
+ast tutorial
+https://www.youtube.com/watch?v=wK_VVajpolI&list=PL8USEx9qc8-vnG27lmwD51DoCFTOrb7Dn&index=1 
+bibhuti mukhiya — 07/10/2023 3:30 PM
+https://vegibit.com/python-ast-module/#how-to-use-ast-module-for-code-analysis-and-linting
+Raja — 07/27/2023 12:21 PM
+https://www.youtube.com/@TwoMinutePapers/videos
+YouTube
+Two Minute Papers
+What a time to be alive!
+Image
+bibhuti mukhiya — 07/28/2023 12:58 PM
+https://github.com/Bibhuti4086mukhiya/cat-coder
+https://github.com/Bibhuti4086mukhiya/auto-import-relate-code-from-diferent-file
+bibhuti mukhiya — 07/28/2023 2:48 PM
+https://github.com/Bibhuti4086mukhiya/auto-import-relate-code-from-diferent-file/tree/master
+bibhuti mukhiya — 07/28/2023 9:19 PM
+https://docs.google.com/spreadsheets/d/1lvJhDYTMXB2rkqFKTNnAzZByJXks7gZ9M2PiWkDrZXI/edit#gid=0
+Google Docs
+bibhuti routine
+Sheet1
+
+Daily routine
+* learning (daily) – 30 minutes
+* task (hard/cat coder - skill development) 5 week per month
+* task (use case -) 15 weeks per month
+* logging (daily) – every 30 minutes
+* explore (GitHub, Kaggle, game, Chat GPT 4 …) 5 days
+Week,First day,Second day,Third day,fourth,Fifth day...
+bibhuti mukhiya — 08/05/2023 11:18 PM
+https://github.com/Bibhuti4086mukhiya/auto-import-relate-code-from-diferent-file/tree/master
+GitHub
+GitHub - Bibhuti4086mukhiya/auto-import-relate-code-from-diferent-file
+Contribute to Bibhuti4086mukhiya/auto-import-relate-code-from-diferent-file development by creating an account on GitHub.
+GitHub - Bibhuti4086mukhiya/auto-import-relate-code-from-diferent-file
+auto access code from different file
+bibhuti mukhiya — 08/09/2023 1:43 PM
+https://collegeinfogeek.com/how-to-do-research/
+College Info Geek
+Ransom Patterson
+How to Do Research in 7 Simple Steps
+How to do research for a final paper, oral presentation, or just about any other assignment you're likely to encounter in college.
+How to Do Research in 7 Simple Steps
+bibhuti mukhiya — 08/09/2023 3:03 PM
+https://open.lib.umn.edu/writingforsuccess/chapter/11-4-strategies-for-gathering-reliable-information/
+Writing for Success
+wigha001
+11.4 Strategies for Gathering Reliable Information
+bibhuti mukhiya — 08/09/2023 3:14 PM
+https://advice.writing.utoronto.ca/researching/research-using-internet/
+Writing Advice
+augarteche
+Research Using the Internet
+bibhuti mukhiya — 08/09/2023 3:42 PM
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846748/
+PubMed Central (PMC)
+From ideas to studies: how to get ideas and sharpen them into resea...
+Where do new research questions come from? This is at best only partially taught in courses or textbooks about clinical or epidemiological research. Methods are taught under the assumption that a researcher already knows the research question and knows ...
+From ideas to studies: how to get ideas and sharpen them into resea...
+bibhuti mukhiya — 08/09/2023 3:50 PM
+https://www.hampshire.edu/what-research
+Hampshire College
+What is Research?
+Research is a process of systematic inquiry that entails collection of data; documentation of critical information; and analysis and interpretation of that data/information, in accordance with suitable methodologies set by specific professional fields and academic disciplines.
+What is Research?
+bibhuti mukhiya — 08/09/2023 3:59 PM
+https://milnepublishing.geneseo.edu/the-information-literacy-users-guide-an-open-online-textbook/chapter/identify-understanding-your-information-need/
+The Information Literacy User’s Guide: An Open, Online Textbook
+browna
+Identify: Understanding Your Information Need
+bibhuti mukhiya — 08/09/2023 5:06 PM
+https://www.masterclass.com/articles/how-to-improve-your-research-skills
+MasterClass
+How to Improve Your Research Skills: 6 Research Tips - 2023 - Maste...
+Whether you’re writing a blog post or a short story, you’ll likely reach a point in your first draft where you don’t have enough information to go forward—and that’s where research comes in.
+How to Improve Your Research Skills: 6 Research Tips - 2023 - Maste...
+https://www.makeuseof.com/internet-research-tips/
+MUO
+6 Internet Research Tips to Help You Find What You Need
+If you find yourself regularly using the internet for research, here are six tips that can help you find what you're looking for.
+6 Internet Research Tips to Help You Find What You Need
+https://www.askaboutireland.ie/learning-zone/secondary-students/how-to-do-research/steps-to-researching/
+Steps to Researching
+bibhuti mukhiya — 08/11/2023 2:21 PM
+https://ohiostate.pressbooks.pub/engrtechcomm/chapter/strategies-for-conducting-research/
+A Guide to Technical Communications: Strategies & Applications
+hall1812
+Strategies for Conducting Research
+bibhuti mukhiya — 08/12/2023 5:12 PM
+https://github.com/Bibhuti4086mukhiya/import-url-title-of-bookmark
+GitHub
+GitHub - Bibhuti4086mukhiya/import-url-title-of-bookmark
+Contribute to Bibhuti4086mukhiya/import-url-title-of-bookmark development by creating an account on GitHub.
+GitHub - Bibhuti4086mukhiya/import-url-title-of-bookmark
+bibhuti mukhiya — 08/13/2023 10:30 PM
+https://whimsical.com/examples-and-inspiration-KXRjgcTqShDW5DNuAyxeKP
+Whimsical
+The Visual Workspace | Whimsical
+Whimsical combines whiteboards and docs in an all-in-one collaboration hub.
+The Visual Workspace | Whimsical
+bibhuti mukhiya — 08/25/2023 12:00 PM
+https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb#:~:text=Asynchronous%20programming%20is%20a%20type,failure%20of%20the%20worker%20thread.
+Medium
+An Introduction to Asynchronous Programming in Python
+Introduction
+An Introduction to Asynchronous Programming in Python
+bibhuti mukhiya — 08/25/2023 5:42 PM
+https://github.com/Bibhuti4086mukhiya/discord_message_access
+GitHub
+GitHub - Bibhuti4086mukhiya/discord_message_access
+Contribute to Bibhuti4086mukhiya/discord_message_access development by creating an account on GitHub.
+GitHub - Bibhuti4086mukhiya/discord_message_access
+bibhuti mukhiya — 08/26/2023 1:25 PM
+https://github.com/Bibhuti4086mukhiya/import-url-title-of-bookmark
+GitHub
+GitHub - Bibhuti4086mukhiya/import-url-title-of-bookmark
+Contribute to Bibhuti4086mukhiya/import-url-title-of-bookmark development by creating an account on GitHub.
+GitHub - Bibhuti4086mukhiya/import-url-title-of-bookmark
+Raja — 09/01/2023 2:30 PM
+https://www.youtube.com/playlist?list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf
+https://www.youtube.com/playlist?list=PLjJhPCaCziSRSUtQiTA_yx5TJ76G_EqUJ
+https://www.youtube.com/playlist?list=PLUHoo4L8qXthO958RfdrAL8XAHvk5xuu9
+https://www.youtube.com/playlist?list=PLU6SqdYcYsfLrTna7UuaVfGZYkNo0cpVC
+https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH
+YouTube
+Math 135 -- Intro to Set Theory
+Math 135 -- Intro to Set Theory -- is a U.C. Berkeley class geared towards 3rd and 4th year math students who already have some experience with abstract math...
+Image
+YouTube
+Math 125A -- Mathematical Logic
+Math 125 -- Introduction to Mathematical Logic -- is a U.C. Berkeley class geared towards 3rd and 4th year math students who already have some experience wit...
+Image
+YouTube
+Crash Course - Philosophy
+All videos from Crash Course https://www.youtube.com/user/crashcourse
+Image
+YouTube
+Numerical Analysis
+This playlist on numerical analysis is comprised with following topics, Overview of numerical analysis, newton forward and backward interpolation formula, St...
+Image
+YouTube
+Graph Theory
+A series of lessons on Graph Theory. The videos are mostly in the proper order, but I am still finishing organizing.
+Image

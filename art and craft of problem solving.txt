@@ -1,0 +1,456 @@
+bibhuti mukhiya — 06/16/2023 12:06 PM
+chapter 1 : a problem sampler
+three type are 
+1.recreational 
+2.contest 
+3.open-ended.
+
+recreational problems
+Problems "to find" ask for a specific piece of  information, 
+while problems "to prove" require a more general argument
+Recreational activities is developed creativity and increase logical thinking. example puzzle, math games
+
+Contest Problems
+written exams with time limits by student
+
+open-ended problems 
+more than one solution 
+bibhuti mukhiya — 06/16/2023 12:00 PM
+chapter 1 : From Mountaineering to Mathematics
+undetermined coefficients is a "guess and check" 
+method for solving problem 
+bibhuti mukhiya — 06/15/2023 11:52 AM
+chapter 1 : From Mountaineering to Mathematics
+bibhuti mukhiya — 06/14/2023 10:59 AM
+chapter 1: Three Levels of Problem Solving
+bibhuti mukhiya — 06/13/2023 11:18 AM
+reading book chapter 1
+how to study this book.
+study with pencil and paper
+try to solve each example as you read it.
+ 
+bibhuti mukhiya — 06/12/2023 11:50 AM
+reading book chapter 1
+different between:
+exercise:   question that you already know how to answer, even if the process is difficult.
+problem:  A problem is a question that you do not know how to answer, at least initially; it requires investigation. 
+bibhuti mukhiya — 06/19/2023 12:33 PM
+chapter 2 : Strategies for Investigating Problems 
+psychological strategies, is simple commonsense ideas, use in all problem.
+every problem is two part,
+investigation=what is going on
+argument= convince others of your discoveries. 
+bibhuti mukhiya — 06/20/2023 12:41 PM
+2.1 Psychological Strategies :
+good problem solver doesn 't give up. 
+work on harder and harder problems that continually challenge and stretch you to the limit.
+
+solving strategies:
+1.Just because a problem seems impossible does not mean that it is impossible.
+2.Never admit defeat after a cursory glance.
+Begin optimistically; assume that the problem can be solved.
+4.Only after several failed attempts should you try to prove impossibility. 
+5.If you cannot do so, then do not admit defeat. Go back to the problem later.
+
+at beginning,
+take one 's time to understand a problem
+have optimistic attitude
+making the problem easier
+ 
+bibhuti mukhiya — 06/21/2023 12:32 PM
+chapter 2 : Creativity
+Learn to shamelessly appropriate new ideas and make them your own.
+Don't get locked into one method. Try to consciously break or bend the rules.
+don 't jump immediately to the solution. Try to solve or at least think about each problem first! 
+bibhuti mukhiya — 06/22/2023 12:33 PM
+chapter 2 : Creativity
+Don't let self-imposed, unnecessary restrictions limit your thinking that mean = maintain an open and unrestricted mindset.
+spending a minute (or more) ask the question 
+*imposing rules that not need
+ *change or bend the rules to take advantage
+*
+bibhuti mukhiya — 06/23/2023 12:32 PM
+chapter 3 : Creativity
+Craft mean  making things by hand
+without first developing craft, good art cannot happen.
+*several failed attempts are perfectly fine, as long as you keep trying other approaches.
+*unsolved problems in your mind consciously and unconsciously is very healthy. 
+bibhuti mukhiya — 06/23/2023 1:05 PM
+Problems and Exercises chapter 2:
+puzzles are okay but not highly recommended.it is work on focus on simple associations.
+Sudoku puzzles are also not highly recommended as they involve standard logic.
+Both puzzles can help build concentration and logic skills
+if one focuses on finding new solution strategies.
+Learn to play strategic games like chess or Go.
+If playing cards, concentrate on memorizing the hands as they are played.
+ 
+bibhuti mukhiya — 06/26/2023 12:31 PM
+Problems and Exercises chapter 2:
+a.take up a musical instrument
+b.Learn a "meditative" physical activity, such as yoga, tai chi, aikido
+c.read books like:
+   
+1.The Gold Bug, by Edgar Allan Poe (a tale of code-breaking);
+2.Sherlock Holmes adventure, by Arthur Conan Doyle 
+3.(masterful stories about deduction and concentration); Zen in the Art of Archery, by Eugen Herrigel
+Endurance, by Alfred Lansing (a true story of Antarctic shipwreck and the mental toughness needed to survive).
+
+d. teach yourself some mental arithmetic.
+e. aware of your routines. (best thinking time like walking, exercise, morning)
+f. source of amusing recreational problems are "lateral thinking" puzzlers. Highly recommended for warm-up work. 
+bibhuti mukhiya — 06/27/2023 7:48 AM
+chapter 2 (2.2 Strategies for Getting Started)
+practical strategies for solving problems
+The First Step: Orientation
+Read the problem carefully. identify positive vs. negative, finite vs. infinite,
+Begin to classify: "to find" or "to prove" problem? Is the problem similar to others you have seen?
+Carefully identify the hypothesis and the conclusion.
+Try some quick preliminary brainstorming: 
+Think about process. 
+particular method of argument  seem?
+guess a possible solution
+words or concepts that seem important in question
+
+When you finish PROBLEM (and don 't rush ! ), go back and do it again
+rethink classification, hypothesis and conclusion, ask yourself "what you have already formulated."
+Don 't spend too much time on orientation
+It is important to keep in mind that any progress is OK. Never be in a hurry to solve a problem!
+Time spent thinking about a problem is always time worth spent. Even if you seem to make no progress at all.
+ 
+bibhuti mukhiya — 06/27/2023 12:22 PM
+Get Your Hands Dirty:  Keep playing around until you see a pattern. Then play around some more, and try to figure out why the pattern you see is happening.
+Penultimate Step:  What will yield the conclusion in a single step?
+Wishful Thinking and Make it Easier:  What is it about the problem that makes it hard?
+Temporarily avoiding the hard part
+just make some initial progress
+ 
+bibhuti mukhiya — 06/28/2023 12:33 PM
+read partial solution and concept of make it easier, get your hands dirty, penultimate of question 
+bibhuti mukhiya — 06/29/2023 12:31 PM
+This an important work habit: 
+Don't skimp on experimentation! Keep messing around until you think 
+you understand what is going on. Then mess around some more
+bibhuti mukhiya — 06/30/2023 12:32 PM
+Problems and Exercise 2.2
+your task is just to experiment, get your hands dirty and come up with conjectures(guess ex. the next term will increase by 7, so it will be 17+7=24.).
+Do not worry to prove your guess at the beginning phase. at first try to habit on brainstorming.
+ 
+bibhuti mukhiya — 07/03/2023 12:33 PM
+Methods of Argument
+every problem,
+the investigation, during which you discover what is going on
+the argument, in which you convince others (or maybe just yourself! ) of your discoveries.
+Arguments should be rigorous and clear
+Type of Arguments: straightforward deduction, contradiction,  mathematical induction
+Common Abbreviations and Stylistic Conventions 
+arguments  with clear statements hypothesis and conclusion
+QED "which was to be demonstrated"
+AWD "and we 're done"
+W5 "which was what we wanted"
+Common mathematical verbs are >,<,=,implies, subset, is equivalent to
+u explore the penultimate step of an argument (TS and ISTS ("to show" and "it is sufficient to show")
+use a simple variable
+alert the audience with WLOG ("without loss of generality")
+ 
+bibhuti mukhiya — 07/04/2023 12:02 PM
+Deduction and Symbolic Logic
+Argument by Contradiction 
+Instead of trying to prove something directly, we start by assuming that it is false,  A contradiction argument 
+is usually helpful for proving directly that something cannot happen. 
+bibhuti mukhiya — 07/05/2023 12:22 PM
+Anything that furthers your investigation is worth doing
+Mathematical Induction:
+• The sum of the interior angles of any n-gon is 1 80(n - 2) degrees . 
+• The inequality n! > 2
+n is true for all positive integers n => 4. 
+bibhuti mukhiya — 07/06/2023 2:28 PM
+Standard Induction
+Establish the truth of P(no). This is called the "base case," and it is usually an easy exercise.
+Assume that P(n) is true for some arbitrary integer n. This is called the inductive hypothesis. Then show that the inductive hypothesis implies that P( n + 1) is also true.
+example of it is : line of brick fall down, right or left 
+bibhuti mukhiya — 07/07/2023 12:10 PM
+Strong Induction
+behind the idea of strong induction is the notion that one should stay flexible in 
+defining hypotheses and conclusions. 
+bibhuti mukhiya — 07/10/2023 12:35 PM
+Other Important Strategies
+converting a problem from words to pictures is vision strategy
+2.Open your mind to other ways of reinterpreting problems 
+bibhuti mukhiya — 07/11/2023 12:23 PM
+Pictures Don't Help? Recast the Problem in Other Ways
+analytic geometry, which converts pictures into algebra, a problem that is geometric on the surface, but not at its core.
+Change Your Point of View 
+Changing the point of view is just another manifestation of peripheral vision.
+Sometimes a problem is hard only because we choose the "wrong" point of view.
+Spending a few minutes searching for the "natural" point of view can pay big dividends.
+ 
+bibhuti mukhiya — 07/12/2023 12:36 PM
+Chapter 3 Tactics for Solving Problems
+Fundamental problem-solving tactics involve the search for order.
+problem have appear to be missing parts (facts, variables, patterns) or the parts do not seem connected
+Finding (and using) order can quickly simplify such problems
+form of order ex: symmetry 
+bibhuti mukhiya — 07/13/2023 12:45 PM
+Chapter 3 Tactics for Solving Problems
+even if you have no idea how to define these two terms, then you are often on the right track.
+Why is symmetry important?
+The strategic principles of peripheral vision and rule-breaking tell us to look for symmetry in unlikely places, and not to worry if something is almost, but not quite symmetrical.
+An informal alternate definition of symmetry is "harmony." This is even vaguer than our "formal" definition, but it is not without value. Look for harmony, and beauty, whenever you investigate a problem. If you can do something that
+makes things more harmonious or more beautiful 
+bibhuti mukhiya — 07/14/2023 12:28 PM
+the power of the Draw a Picture strategy coupled with symmetry, and can be applied in many harder situations.
+Algebraic Symmetry:
+Don 't restrict your notions of symmetry to physical or geometric objects.For example, sequences can have symmetry, like this row of Pascal 's Triangle: 
+1 ,6, 15,20,20, 15,6, 1 . 
+bibhuti mukhiya — 07/15/2023 12:31 PM
+The Gaussian Pairing Tool
+The advantage of this method is that it does not matter whether the number of terms was even or odd (notice that this is an issue with the original pairing method
+Prove that d (n ) is odd if and only if n is a perfect square
+d(n) is odd if and only if n is a perfect square 
+bibhuti mukhiya — 07/16/2023 12:53 PM
+The Extreme Principle
+1.imagine that things are arranged in a certain order. 
+2.Then,  concentrate on the biggest and smallest parts of the problem
+3  they might have important limitations or rules that can help you find a solution. 
+bibhuti mukhiya — 07/20/2023 12:30 PM
+Always be aware of order and maximum/minimum in a problem
+monotonizing:elements are arranged in order
+bibhuti mukhiya — 07/21/2023 12:29 PM
+In more complicated problems, 
+It is not always obvious what entities should be monotonized, and the Well-Ordering Principle is not always true for infinite sets.
+In situations involving infinite sets, sometimes extremal arguments work, but you need to
+be careful. 
+bibhuti mukhiya — 07/22/2023 12:36 PM
+The Pigeonhole Principle
+If you have more pigeons than pigeonholes, and you try to stuff the 
+pigeons into the holes, then at least one hole must contain at least two 
+pigeons. 
+bibhuti mukhiya — 07/23/2023 12:10 PM
+crux move: where the greatest danger exists.
+bibhuti mukhiya — 07/23/2023 12:33 PM
+The pigeonhole principle is a problem-solving approach used in combinatorics. It involves three steps: 
+Recognizing when the principle is applicable.
+Identifying the items (pigeons) and categories (holes) relevant to the problem.
+After applying the principle, additional steps may be needed for the final solution. The skilled problem solver plans for this.
+The "penultimate step" is a vital intermediate stage in problem-solving, leading closer to the final solution, acting as a crucial link between the initial approach and the successful outcome, but additional steps are needed for the ultimate resolution.
+bibhuti mukhiya — 07/26/2023 12:33 PM
+intermediate Pigeonhole
+If you have p pigeons and h holes. then at least one of the holes 
+contains at least r p / h 1 pigeons.
+p > h, so the quantity [ p / h ]is at least 2. 
+bibhuti mukhiya — 07/27/2023 1:05 PM
+Advanced Pigeonhole
+bibhuti mukhiya — 07/28/2023 12:43 PM
+invariants:
+the strategy is about simplifying complex problems by focusing on specific unchanging numerical quantities called invariants, which can provide valuable insights(the deep and valuable understanding).
+bibhuti mukhiya — 07/29/2023 12:45 PM
+Even integers are divisible by 2, odd integers are not. Parity of a sum is odd if odd elements in the set are odd. Parity of a product is odd if there are no even elements.
+Sure, let's explain with an example:
+
+Example:
+Consider the set of integers {2, 5, -4, 7}.
+
+Parity of a sum:
+Add all the integers in the set: 2 + 5 + (-4) + 7 = 10
+Count the number of odd elements: There are two odd elements (5 and 7).
+
+The sum is even because it's divisible by 2. In this case, the number of odd elements is even (2 odd elements), and according to the first fact, the sum is even.
+
+Parity of a product:
+Multiply all the integers in the set: 2 * 5 * (-4) * 7 = -280
+Check for even elements: There is one even element (2).
+
+The product is even because it's divisible by 2. In this case, there is at least one even element, and according to the second fact, the product is even.
+
+To summarize, in this example:
+The sum of the set is even because it has an even number of odd elements.
+The product of the set is even because it contains at least one even element.
+bibhuti mukhiya — 07/30/2023 12:40 PM
+A lattice point is a point on the coordinate plane with integer coordinates. It forms the intersection of the x-axis and y-axis, denoted as (x, y), where x and y are integers. 
+bibhuti mukhiya — 08/02/2023 12:50 PM
+modular arithmetic, reducing the infinite set of integers into a finite set of possible remainders modulo a chosen positive integer "m".
+Monovariants are algorithm analysis and mathematical proofs, helping to simplify and clarify the understanding of complex processes.
+monovariant (also known as an invariant or an "invariant quantity") is  a quantity or property that remains constant during a certain process or algorithm. 
+bibhuti mukhiya — 08/03/2023 12:57 PM
+If there are only finitely many states as something evolves, either a state will repeat, or the evolution will eventually halt.
+If a system has a finite number of possible states, and it keeps evolving or changing over time, there are two possibilities: Repetition, Halting 
+bibhuti mukhiya — 08/04/2023 12:09 PM
+chapter 4: Three Important Crossover Tactics
+If a graph has 10 vertices and 10 edges, must it contain a cycle? 
+A connected graph that contains no cycles is called a tree.
+A non-connected graph containing no cycles is called a forest; each of its connected components is a tree.
+Every tree with two or more vertices has at least two leaves. 
+Graph Theory which are mathematical structures used to model pairwise relationships between objects. A graph consists of a set of vertices (also known as nodes) and a set of edges (also known as links or connections) that connect pairs of vertices. 
+Vertices (Nodes): T
+Edges (Links): T
+Degree:
+Paths:
+Cycles:
+Connectivity:
+Weighted Graphs:
+Directed Graphs (Digraphs):
+Tree:
+Spanning Tree:
+ 
+bibhuti mukhiya — 08/05/2023 1:33 PM
+Trees: The number of edges in a tree is one less than the number of vertices.
+Graphs with e edges and v vertices, where e > 2v, must contain a cycle.
+A connected graph (or multigraph) has a path that traverses every edge exactly once if it has either zero or exactly two odd-degree vertices. This path is called an Eulerian path.
+ 
+bibhuti mukhiya — 08/06/2023 12:27 PM
+Complex Numbers
+complex numbers have unique properties, making them a crossover between algebraic and geometric concepts.
+expressed in the form a + bi, where "a" and "b" are real numbers, and "i" represents the imaginary unit (√-1). In this representation, "a" is called the real part of the complex number, and "bi" is the imaginary part. The imaginary unit "i" is defined as i^2 = -1. 
+bibhuti mukhiya — 08/09/2023 12:39 PM
+Complex numbers are represented as (z = a + bi), where (a) is the real part and (b). coordinate of a point in a two-dimensional plane. This point is also viewed as the endpoint of a vector starting at the origin.
+
+The dual nature of (z = a + bi) is highlighted: it's both a point with coordinates ((a, b)) and a vector originating from the origin and terminating at ((a, b)). It's emphasized that vectors can originate from any point, not solely the origin, and they are defined by their magnitude and direction. For (z = a + bi), the magnitude (|z|) is computed as the square root of the sum of the squares of (a) and (b), i.e., (|z| = \sqrt{a^2 + b^2}).
+
+0=tetha
+z = r(cos 0 + i sin 0). This is called the polar form of z.
+cos 0 + i sin 0 is Cis 0;
+z = r Cis 0.
+
+zw = (rCis a) (sCis f3 ) = rs Cis (a + f3); 
+The length of zw is the product of the lengths of z and w, and the angle of zw is the sum of the angles of z and w.
+
+Since i(a + bi) = -b + ai,
+"Multiplication by i" means "rotate by n/2 counterclockwise:' 
+Likewise, if a is real,
+"Multiplication by a" means "expand by a factor of a." 
+For example, multiplication of a complex vector z by 3 produces a new vector 
+that has the same direction, but is three times as long. Multiplication of z by 1 15 
+produces a vector with the same direction, but only 1 15 as long. 
+Multiplying z by 3 + 4i = 5 Cis e means that z is turned into (3 + 4i)z = 3z + 4iz.
+This is the sum of two vectors, 3z and 4iz. The first vector is just z expanded by a 
+factor of 3. The second vector is z rotated by 90 degrees counterclockwise, then 
+expanded by a factor of 4. So the net result will be a vector with length 5 1z1 and angle e + arg z.
+Clearly this argument generalizes to multiplication by any complex number. 
+Multiplication by the complex number rCis e is a counterclockwise rotation by e followed by stretching by the factor r. 
+bibhuti mukhiya — 08/10/2023 1:12 PM
+De Moivre's Theorem
+(cos e + i sin et = cosne + i sinne.
+
+Exponential Form(Euler's formula)
+Cis tetha = e power to i(tetha)
+
+(a) Izwl = Izl lwl and Iz/wl = Izl/Iwl: T
+
+
+(b) Re z = -1 (z + z) and 1m z = d:z (z - z):
+(c) zz = Iz1^2: 
+
+(d) The midpoint of the line segment joining the complex numbers z, w is (z+w)/2: 
+(e) z+w = z+w and zw = zw and z/w = z/w: 
+
+(f) (1 + i)^10 = 32i and (1 - √3i)^5 = 16(1 + √3i): 
+(g) Show by drawing a picture that z = √(1 + i) satisfies z^2 = i: 
+
+(h) Describing a circle with center at a and radius r: This statement is correct. When you take a complex number a and add a radius r multiplied by the complex unit vector eiθ (where θ varies from 0 to 2π), you get a set of points that forms a circle with center a and radius r.
+
+(i) Area of the triangle with vertices at O, a, and b: The area of a triangle with vertices at complex numbers O (origin), a, and b is given by one-half of the absolute value of the cross product of vectors formed by the sides aO and aB. In terms of complex numbers, this can be represented as (1/2) * |Im(ab)|, where Im(ab) is the imaginary part of the product ab. 
+bibhuti mukhiya — 08/11/2023 1:01 PM
+Some Applications
+bibhuti mukhiya — 08/12/2023 12:27 PM
+Generating functions that helps solve problems in combinatorics and algebra. 
+When you multiply terms with the same base but different exponents, you add the exponents.
+Understanding local coefficients in a power series provides insights into global properties of a sequence.
+
+Generating functions with algebraic manipulation, making complex problems more manageable and revealing connections between different mathematical concepts. 
+bibhuti mukhiya — 08/13/2023 12:37 PM
+Partitions refers to a concept in combinatorics, which is the branch of mathematics that deals with counting and arranging objects.
+A partition of a positive integer n is a way of representing n as a sum of positive integers. In other words, it's a way of breaking down n into a set of smaller positive integers. Each of these smaller positive integers is called a part. For example, the partitions of 4 are:
+4
+3 + 1
+2 + 2
+2 + 1 + 1
+1 + 1 + 1 + 1
+The study of partitions involves understanding how many ways a given number can be partitioned and exploring the properties of these partitions. 
+bibhuti mukhiya — 08/17/2023 12:57 PM
+generatingfunctionology
+bibhuti mukhiya — 08/19/2023 12:44 PM
+Chapter 5
+Algebra
+Functions: Relationships that map inputs to corresponding outputs; in math or programming.
+Sets: Collections of distinct, well-defined objects or elements with common properties. 
+bibhuti mukhiya — 08/20/2023 12:41 PM
+Algebraic Manipulation Revisited
+algebraic exercises manipulating numbers and symbols. It emphasizes that while some algebraic problems can be messy, a good problem solver seeks elegant and symmetrical solutions rather than just tedious manipulations. 
+bibhuti mukhiya — 08/23/2023 12:47 PM
+The Factor Tactic
+Multiplication rarely simplifies things. Instead, you should 
+Factor relentlessly. ex: 2x + 4x^2 = x(2 + 4x)
+
+Manipulating Squares
+*Creating Perfect Squares:**
+Squaring Integers:
+3^2 = 9
+(-5)^2 = 25
+Completing the Square:
+Example: x^2 + 6x = (x + 3)^2 - 9
+
+Recognizing Perfect Squares:
+ Pattern Recognition: 
+1^2 = 1
+11^2 = 121
+111^2 = 12321
+1111^2 = 1234321
+Square Roots: 
+√9 = 3 (9 is a perfect square)
+√16 = 4 (16 is a perfect square)
+
+ Algebraic Recognition: 
+x^2 + 6x + 9 = (x + 3)^2
+Difference of Squares: An expression of the form a^2 - b^2 is a difference of squares and can be factored into (a + b)(a - b). For example:
+25 - 16 = (5 + 4)(5 - 4)
+
+Quadratic Equations: 
+x^2 - 6x + 9 = (x - 3)^2 
+bibhuti mukhiya — 08/24/2023 12:44 PM
+Substitutions:
+ replacing one element, variable, term, or expression with another. simplify an equation, expression, or problem.  solve for a variable by replacing it with a known value.
+ In programming, replacing certain values or variables with their corresponding values or computations. Substitutions can help transform a problem into a more understandable or solvable form.
+
+Simplifications:
+reducing a complex expression, equation, or problem into a simpler form while retaining its essential characteristics.  makes the problem easier to analyze, understand, and solve. simplification combining like terms, factoring, canceling out common factors, or reducing fractions to their simplest forms.
+In programming, simplification could mean writing code in a more concise and efficient way without sacrificing functionality. 
+bibhuti mukhiya — 08/25/2023 12:39 PM
+Sums and Products
+bibhuti mukhiya — 08/26/2023 12:36 PM
+Notation
+The upper-case Greek letters  (sigma) and (pi) are used for sums and products.
+Arithmetic Series 
+An arithmetic sequence is a sequence of consecutive terms with a constant difference; i.e. , a sequence of the form
+an arithmetic series of n terms with first term a and last term l. We write the sum twice (d is the common difference)
+Geometric Series and the Telescope Tool
+A geometric sequence is exactly like an arithmetic sequence except that now the consecutive terms have a common ratio; i.e., the sequence has the form a, ar, ar , ar , .... 
+bibhuti mukhiya — 08/30/2023 12:41 PM
+Infinite Series:
+An infinite series is a sum of an infinite number of terms. 
+bibhuti mukhiya — 08/30/2023 1:17 PM
+valid if and only if Irl < I. This is a simple consequence of the formula for a finite 
+geometric series. 
+There are many ways to determine whether a given series converges or diverges. 
+The simplest principles, however, are 
+• If }:ak < infinite (Le., the series converges) and the ak dominate all but a finite 
+number of the hk (Le., ak 2 hk for all but a finite number of values of k), then 
+}: hk < infinite• 
+• Likewise, if }:ak = infinite (Le., the series diverges) and the hk dominate all but a 
+finite number of the ab then }: hk = infinite. 
+In other words, the simplest strategy when dealing with an unknown infinite series 
+is to find a known series to compare it to. One fundamental series that you should 
+know well is the harmonic series 
+Image
+bibhuti mukhiya — 09/01/2023 12:34 PM
+Polynomials
+Polynomial Definition: A[x] is the set of all polynomials with coefficients from a set of numbers A.
+Coefficient Sets: integers (Z), rational numbers (Q), real numbers (R), and complex numbers (C) and integers modulo n (Zn).
+Terms and Monomials: ajxi, is referred to as a term or monomial. These terms consist of a coefficient (ai) multiplied by a power of the variable x.
+Notation: Consistent notation is emphasized as a way to prevent errors and confusion when working with polynomials. The coefficient ai is specifically labeled as the coefficient of x^i.
+Degree of a Polynomial: The degree of a polynomial is defined as the highest exponent of the variable x that has a non-zero coefficient. The coefficient of this highest-degree term is also known as the leading coefficient.
+Monic Polynomials: If the leading coefficient of a polynomial is 1, the polynomial is called monic.
+Constant Term: The coefficient a0 is referred to as the constant term of the polynomial.
+
+Polynomial Operations 
+Multiplication of Polynomials: notation for polynomial multiplication, denoting the product of two polynomials A(x) and B(x) as C(x).
+Polynomial Division:  polynomials can be divided like integers, resulting in a quotient and remainder.

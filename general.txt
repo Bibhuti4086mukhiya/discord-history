@@ -1,0 +1,746 @@
+
+Raja — 06/23/2023 1:56 PM
+analy...
+out: if
+30-40
+min log
+ana
+analysis out:
+ 
+Raja — 06/23/2023 2:05 PM
+conclusion: 1. write output in same line for each log#
+try to log frequently (around once in 40 min)#
+when starting a level, after analysis give an estimate in time
+bibhuti mukhiya — 06/23/2023 2:10 PM
+hello dai
+Raja — 06/23/2023 2:10 PM
+hi
+bibhuti mukhiya — 06/23/2023 2:11 PM
+wifi cut bhako thiyo.
+Raja — 06/23/2023 2:11 PM
+kehi chaina
+hamro meeting ni end vaisakethiyo
+bibhuti mukhiya — 06/23/2023 2:11 PM
+ok
+bibhuti mukhiya — 06/23/2023 3:19 PM
+level three code complete.
+bibhuti mukhiya — 06/26/2023 12:48 PM
+level 4 complete in paper, and creating code.
+bibhuti mukhiya — 06/26/2023 1:42 PM
+auction bidding code complete 
+bibhuti mukhiya — 06/26/2023 2:12 PM
+Now, re-do auction bidding
+bibhuti mukhiya — 06/28/2023 12:37 PM
+level 1 complete auction bidding again 
+bibhuti mukhiya — 06/29/2023 2:07 PM
+kaam xa bus park ma
+Raja — 06/29/2023 2:53 PM
+ok
+Raja — 06/30/2023 3:36 PM
+learning (daily)
+task (hard - skill development) 1 week per month
+task (usecase - ) 2.5 weeks per month
+logging (daily)
+explore ( github, kaggle, game, ChatGPT 4 ..) 4 days
+ 
+Raja — 06/30/2023 3:54 PM
+5 week
+estimate
+bibhuti mukhiya — 07/03/2023 12:05 PM
+Image
+bibhuti mukhiya — 07/03/2023 12:58 PM
+dai file dinuna 
+Raja — 07/03/2023 2:11 PM
+class ModuleReloader:
+    def btn_click(self,detail):
+        contet = f"from {self.dic[detail.description]} import {detail.description}\n"
+        contet += "from ModuleDB import ModuleDB\n"
+        contet += f"ModuleDB.reloadClass({detail.description})"
+        exec(contet)
+Expand
+abcL.py
+1 KB
+from abcL import ModuleReloader
+from abcd import main
+
+print("aaa")
+print(main("100,C,100"))
+inpu.py
+1 KB
+def buyerAndbid(bidder_list):
+    buyer=bidder_list.pop(0)
+    buyerBid=bidder_list.pop(0)
+    return buyer,buyerBid
+def buyerAndbidRead(bidder_list):
+    buyer=bidder_list[0]
+Expand
+res.py
+4 KB
+def bidderAndBid(bid_list):
+    if len(bid_list) != 0:
+        bidder=bid_list.pop(0)
+        bid=int(bid_list.pop(0))
+    return bidder,bid
+
+Expand
+abcd.py
+7 KB
+res.py jasto aunu parxa
+inpu.py chahi hamile deko file ho
+and aru files chahi lib ko files ho
+bibhuti mukhiya — 07/03/2023 2:15 PM
+bujhina dai
+Raja — 07/03/2023 2:57 PM
+ma voli bujhauxu taba
+bibhuti mukhiya — 07/03/2023 2:58 PM
+ok
+Raja — 07/04/2023 12:18 PM
+https://meet.google.com/jrg-bctk-wec
+Meet
+Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.
+Image
+yo join gara
+bibhuti mukhiya — 07/04/2023 12:18 PM
+OK
+sunira xa tapai ko sound
+bibhuti mukhiya — 07/05/2023 12:04 PM
+modulereader class k garna dai 
+Raja — 07/05/2023 2:07 PM
+timile you run garnu pardaina
+module reader class chahi
+timile kunai pani code run garnu pardaina
+result samma jana ko lagi
+bibhuti mukhiya — 07/05/2023 2:10 PM
+result samma aayo
+Raja — 07/05/2023 2:11 PM
+code ko link send garata
+result samma vane si, res.py
+vaneko timile
+bibhuti mukhiya — 07/05/2023 2:12 PM
+res.py ko jastai result aaunu parxa
+inpu.py ko result
+res.py ma duita last ko result ma dinxa
+inpu.py ko resutl sab dinxa
+Raja — 07/05/2023 2:15 PM
+ho tara tyo check garna ko lagi code run garnu pardaina
+bujhena vane ek choti voli kura garam
+bibhuti mukhiya — 07/05/2023 2:16 PM
+ast lib bata check garna
+Raja — 07/05/2023 2:23 PM
+timi voice bata ni vanna sakxau 
+ma sunirako xu
+aafo screen share gara ni vana
+maile bujhina jasto xa
+bibhuti mukhiya — 07/05/2023 2:24 PM
+sunira xa dai
+Raja — 07/05/2023 2:26 PM
+sunirako thiyena
+timro output chahi file hunxa
+res.py
+tara hami le moduleReloader la na use garko karan le tyaslai ignore gardai xau
+voli discuss garam
+aaja timi cat coder ko gara
+bibhuti mukhiya — 07/05/2023 2:29 PM
+ok
+Raja — 07/07/2023 1:52 PM
+I will be back in 10 min
+bibhuti mukhiya — 07/07/2023 1:52 PM
+ok
+Raja — 07/07/2023 2:32 PM
+with open("ast_project/abcd.py", "r") as f:
+    code = f.read()#
+
+content = File.getFileContent("ast_project/inpu.py")
+
+import ast
+
+parsed = ast.parse(content)
+
+parsed.body
+
+thirdExp = parsed.body[2]
+
+thirdExp.value.args[0]
+
+thirdExp.value.func.id
+
+a = ModuleReloader()
+a.main()
+
+isinstance(thirdExp.value, ast.Call)
+
+fourthline = parsed.body[-1]
+
+fourthline.value.args[0].func.id == line2.names[0].name
+
+line1 = parsed.body[0]
+line2 = parsed.body[1]
+
+line2.names[0].name
+
+
+
+content = "ast_project/"+line2.module + ".py"
+
+dependecy graph 
+
+abcd.py
+
+depen
+step input.py[abcd.py]
+abcd.py
+[]
+
+
+step 2:
+    input.py - abcd.py
+    [main]
+bibhuti mukhiya — 07/07/2023 5:04 PM
+dai saturday and sunday online basne ki k karne
+Raja — 07/07/2023 8:58 PM
+Arko week Dekhi garnu
+Yo week ma busy hunxu
+Arko week Saturday Ani Sunday basa Ani 3 din ko vida Lina sakxau
+bibhuti mukhiya — 07/08/2023 10:09 AM
+Hunxa
+bibhuti mukhiya — 07/12/2023 1:53 PM
+file=[]
+for node in parsed.body:
+    try:
+        file+=[str(node.module)]
+    except:
+        pass
+print(file)
+['abcL', 'abcd']
+class FunctionNamePrinter(ast.NodeVisitor):
+    def visit_FunctionDef(self, node):
+        print(f"Function name: {node.name}")
+        self.generic_visit(node)
+        
+for i in file:
+    with open(f"{i}.py", "r") as f:
+        code = f.read()#
+    parsed=ast.parse(code)
+    visitor = FunctionNamePrinter()
+    visitor.visit(parsed)
+Function name: btn_click
+Function name: main
+Function name: bidderAndBid
+Function name: bidderAndBidReadOnly
+Function name: main
+class PrintToMyPrintTransformer(ast.NodeTransformer):
+    def visit_Call(self, node):
+        # Check if the function being called is 'print'
+#         print(ast.Name.)
+        if node.func.id!='print':
+            print(node.func.id)
+        return self.generic_visit(node)
+        
+with open(f"inpu.py", "r") as f:
+    code = f.read()#
+    tree = ast.parse(code)
+    transformer = PrintToMyPrintTransformer()
+    new_tree = transformer.visit(tree)
+main
+ 
+Raja — 07/12/2023 3:19 PM
+Try to log at 7 times a day
+bibhuti mukhiya — 07/12/2023 3:19 PM
+ok
+bibhuti mukhiya — 07/14/2023 5:09 PM
+import ast
+import inspect
+
+with open("inpu.py", "r") as f:
+    code = f.read() #
+file_module={}
+class WildcardImportChecker(ast.NodeVisitor):
+    global file_module
+    def visit_ImportFrom(self, node):
+        for alias in node.names:
+            print(node.module,alias.name)
+            file_module[f"{alias.name}"]=f'{node.module}'
+        self.generic_visit(node)
+    
+tree = ast.parse(code)
+visitor = WildcardImportChecker()
+visitor.visit(tree)
+
+file_def={}
+class PrintToMyPrintTransformer(ast.NodeTransformer):
+    global file_def
+    def visit_Call(self, node):
+        i=0
+        if node.func.id!='print':
+            file_def[f'{i}']=f'{node.func.id}'
+            i+=1
+        self.generic_visit(node)
+        
+with open(f"inpu.py", "r") as f:
+    code = f.read()#
+    tree = ast.parse(code)
+    transformer = PrintToMyPrintTransformer()
+    new_tree = transformer.visit(tree)
+
+module_name=list(file_module.values())
+print(module_name)
+func_name=list(file_def.values())
+print(func_name)
+print(file_module.keys())
+
+for i in list(file_module.keys()):
+    if func_name==i:
+        module = __import__(f'{func_name[f"{i}"]}')
+        source_code = inspect.getsource(module.main)
+        print(source_code)
+bibhuti mukhiya — 07/15/2023 4:23 PM
+import ast
+import inspect
+
+with open("inpu.py", "r") as f:
+    code = f.read() #
+file_module={}
+class WildcardImportChecker(ast.NodeVisitor):
+    global file_module
+    def visit_ImportFrom(self, node):
+        for alias in node.names:
+            file_module[f"{alias.name}"]=f'{node.module}'
+        self.generic_visit(node)
+    
+tree = ast.parse(code)
+visitor = WildcardImportChecker()
+visitor.visit(tree)
+
+file_def={}
+class PrintToMyPrintTransformer(ast.NodeTransformer):
+    global file_def
+    def visit_Call(self, node):
+        i=0
+        if node.func.id!='print':
+            file_def[f'{i}']=f'{node.func.id}'
+            i+=1
+        self.generic_visit(node)
+        
+tree = ast.parse(code)
+transformer = PrintToMyPrintTransformer()
+new_tree = transformer.visit(tree)
+
+module_name=list(file_module.values())
+func_name=list(file_def.values())
+
+for i in func_name:
+    module = __import__(str(file_module[i]))
+    source_code = inspect.getsource(getattr(module,i))
+    file=open('new_file.py','w')
+    file.write(source_code)
+    file.close()
+result:
+make new_file.py 
+there is call function main code in new file
+Raja — 07/15/2023 4:26 PM
+Task completed vayo?
+bibhuti mukhiya — 07/15/2023 4:27 PM
+yo ma aaru kahi garnu paxa ki nai
+Raja — 07/15/2023 4:27 PM
+Maile test garxu Paila Ani vanxu
+Timile ni test gareyou
+Afaile test cases created garera
+bibhuti mukhiya — 07/15/2023 4:30 PM
+ok
+bibhuti mukhiya — 07/16/2023 1:52 PM
+dai test case ko code lekhane ki describe garne kasri bhayo / what code work. flow chart jasto. 
+bibhuti mukhiya — 07/16/2023 2:18 PM
+example
+Test Case ID: [Unique identifier for the test case]
+Test Case Name: [Concise and descriptive name]
+
+Description:
+[A brief description of the purpose of this test case]
+
+Pre-conditions:
+[List any necessary setup or conditions that must be met before executing the test case]
+
+Test Steps:
+1. [Step 1: Clearly describe the action to be taken]
+2. [Step 2: Clearly describe the action to be taken]
+3. [Step 3: Clearly describe the action to be taken]
+...
+[n. Step n: Clearly describe the action to be taken]
+
+Test Data:
+[Provide any specific test data or input values required for the test]
+
+Expected Results:
+[Clearly define the expected outcome or behavior]
+
+Test Environment:
+[Specify the testing environment, such as operating system, browser, or hardware]
+
+Test Priority: [High/Medium/Low]
+Test Type: [Functional/Integration/Regression/etc.]
+Test Status: [Pass/Fail/Blocked/Not Executed]
+Test Run By: [Tester's Name]
+Test Run Date: [Date of execution]
+
+Notes:
+[Any additional notes or observations related to the test case]
+Test Case ID: TC001
+Test Case Name: Password Length Boundary Test
+
+Description:
+Verify the behavior of the login page when the password is at the lower and upper boundaries of the allowed length.
+
+Pre-conditions:
+1. Navigate to the login page.
+2. Ensure a valid username is entered.
+
+Test Steps:
+1. Enter a password with the minimum allowed length (e.g., 8 characters).
+2. Click on the "Login" button.
+
+Test Data:
+Username: [Valid Username]
+Password: [Minimum allowed-length password]
+
+Expected Results:
+The user should be logged in successfully.
+
+Test Environment:
+Browser: [Chrome/Firefox/Edge/Safari]
+Operating System: [Windows/Mac/Linux]
+
+Test Priority: Medium
+Test Type: Boundary Test
+Test Status: Pass
+Test Run By: John Tester
+Test Run Date: [Current Date]
+
+Notes:
+No specific error message is expected for this test case.
+bibhuti mukhiya — 07/16/2023 3:37 PM
+Image
+Raja — 07/16/2023 3:56 PM
+way to explore and learn from Internet
+https://advice.writing.utoronto.ca/researching/research-using-internet/
+Writing Advice
+augarteche
+Research Using the Internet
+bibhuti mukhiya — 07/22/2023 4:59 PM
+from abcL import ModuleReloader
+from abcd import main,bidderAndBidReadOnly
+
+def hello():
+    x=bidderAndBidReadOnly("1,15,A,5,B,10,A,8,A,17,B,17")
+    
+Expand
+inpu.py
+1 KB
+import ast
+import inspect
+
+with open("inpu.py", "r") as f:
+    code = f.read() #
+    
+Expand
+load_dependence.py
+3 KB
+def bidderAndBidReadOnly(bid_list):
+    if len(bid_list) != 0:
+        bidder=bid_list[0]
+        bid=int(bid_list[1])
+        return bidder,bid
+def main(bid_list):
+Expand
+result.py
+7 KB
+half complete
+need to remove repeated def function
+bibhuti mukhiya — 07/26/2023 1:02 PM
+first week
+catcoder, catcoder, usecase, usecase, usecase 
+bibhuti mukhiya — 07/26/2023 5:22 PM
+def dayAndPayment(list_of_input):
+    list_of_input=list_of_input.split()
+    sales=[]
+    for i in list_of_input:
+        sales+=[list_of_input.pop(0)] 
+    payment=list_of_input
+    result=[]
+    for i in range(2,len(sales),3):
+        if sales[i]>payment[i]:
+            print(payment[i-1])
+            result+=[payment[i-1]]
+    return result
+
+list_of_input="""F 1 200 F 2 170 B 1 200 B 2 100"""
+
+
+x=dayAndPayment(list_of_input)
+for i in range(len(x)):
+    print(x[i],end=' ')
+level 1,2
+Raja — 07/27/2023 12:10 PM
+voice join gara
+bibhuti mukhiya — 07/28/2023 2:48 PM
+complete bhayo dai
+bibhuti mukhiya — 07/29/2023 12:47 PM
+hello dai
+Raja — 07/29/2023 2:27 PM
+```py
+class WildcardImportChecker(ast.NodeVisitor):
+    def visit_ImportFrom(self, node):
+        for alias in node.names:
+            self._file_module[f"{alias.name}"]=f'{node.module}'
+        self.generic_visit(node)
+Expand
+message.txt
+4 KB
+bibhuti mukhiya — 07/29/2023 4:17 PM
+school ko sir aako thiyo vetna 
+Raja — 07/29/2023 4:41 PM
+ok
+Raja — 08/05/2023 5:10 PM
+mero aawaj sunirako xa? 
+bibhuti mukhiya — 08/05/2023 5:11 PM
+Mero mobile bata sound jadaina dai
+Raja — 08/05/2023 5:11 PM
+ok
+bibhuti mukhiya — 08/05/2023 5:11 PM
+Tapai sound aako
+Raja — 08/05/2023 5:11 PM
+ok
+bibhuti mukhiya — 08/05/2023 5:11 PM
+Tapai bhanuna
+Hunxa
+Raja — 08/05/2023 5:17 PM
+class Discord:
+    def get_categories(self):
+        pass
+    def get_channel(self,category_id):
+        pass
+    def get_content(self, channel_id):
+        pass
+bibhuti mukhiya — 08/05/2023 5:17 PM
+Chrome
+Raja — 08/05/2023 5:20 PM
+create chrome extension to export title :links export(title)
+{
+    title: url,
+    title2: url2,
+    ..
+    .
+} 
+bibhuti mukhiya — 08/05/2023 5:21 PM
+Chrome extension wala ko link ra title extract garna
+Raja — 08/05/2023 5:21 PM
+ho
+bibhuti mukhiya — 08/05/2023 5:21 PM
+Hunxa
+Raja — 08/05/2023 5:21 PM
+bookmark vako sabai links ko title ani url
+ma voli ni explain garidinxu
+kehi question vayo vane
+bibhuti mukhiya — 08/05/2023 5:22 PM
+Xaena
+Raja — 08/05/2023 5:22 PM
+ok
+la aaja ko lagi yetinai
+bibhuti mukhiya — 08/05/2023 5:23 PM
+Ok
+Raja — 08/05/2023 5:23 PM
+bye
+bibhuti mukhiya — 08/10/2023 12:22 PM
+Electricity line cut
+bibhuti mukhiya — 08/10/2023 2:33 PM
+feeling sick
+Raja — 08/11/2023 4:32 PM
+Ok
+I will not available for few days
+I will write when I am back
+bibhuti mukhiya — 08/12/2023 5:13 PM
+task import url and title completed 
+Raja — 08/13/2023 5:06 PM
+are u there?
+Raja — 08/13/2023 5:28 PM
+how to research? (motivation: why? benefits? )
+metric ( perfectly: 100, compare: , factors: )
+thesis describe (example)
+conclusion
+bibhuti mukhiya
+ started a thread: 
+laptop problem
+. See all 
+threads
+.
+ — 08/16/2023 12:29 PM
+Thread
+laptop problem
+1 Message ›
+There are no recent messages in this thread.
+Raja — 08/16/2023 2:56 PM
+ok
+Raja — 08/17/2023 1:20 PM
+hi
+bibhuti mukhiya — 08/17/2023 1:21 PM
+hello
+wait i will bring headphone
+Raja — 08/17/2023 1:21 PM
+ok
+ma 5 min ma feri aauxu
+bibhuti mukhiya — 08/17/2023 1:24 PM
+ok
+bibhuti mukhiya — 08/18/2023 6:18 PM
+Laptop banayo ram bigreko thiyo and charger nayalinupaxa
+Raja — 08/18/2023 8:22 PM
+ok
+laptop fix vayo?
+bibhuti mukhiya — 08/18/2023 8:24 PM
+Aahile ko lagi bhayo and battery pani change garnu parxa and aarko ram thapanu parxa
+Raja — 08/18/2023 8:25 PM
+ehh
+thik xa
+aaja aauxau ki voli
+?
+bibhuti mukhiya — 08/18/2023 8:27 PM
+Voli 12 baja
+Raja — 08/18/2023 8:27 PM
+ok
+bibhuti mukhiya — 08/18/2023 8:28 PM
+Fourth week repeat garnu??
+Raja — 08/18/2023 8:29 PM
+yo pali kun week ma xau tyahi gara
+bibhuti mukhiya — 08/18/2023 8:32 PM
+Ok
+Raja — 08/18/2023 8:32 PM
+ok
+Raja — 08/19/2023 4:02 PM
+dont forget to log every 30 - 40 min
+bibhuti mukhiya — 08/19/2023 4:02 PM
+ok
+bibhuti mukhiya — 08/20/2023 12:08 PM
+dai catcoder ko competition ma participate garna option nai xaena
+Image
+Raja — 08/20/2023 2:20 PM
+aba run vairako xa?
+ki ahile pani run vairako xaina
+bibhuti mukhiya — 08/20/2023 2:48 PM
+tai xa
+bibhuti mukhiya — 08/25/2023 2:06 PM
+Electric cut
+bibhuti mukhiya — 08/25/2023 4:41 PM
+hello dai
+Raja — 08/25/2023 8:30 PM
+hi
+voli kura garam
+bibhuti mukhiya — 08/26/2023 1:14 PM
+I am coming
+Raja — 08/26/2023 1:19 PM
+hi i am interested in the ad you posted in the accomodation group
+is it still available
+https://www.facebook.com/groups/476895249169586/
+Indians in Munich Accommodation | Facebook
+This page is to provide accommodation availability in and around Munich. Additionally posts related to property insurances, cleaning, maintenance etc., will be tolerated. Tenant and landlord related...
+Raja — 08/26/2023 1:34 PM
+task:
+pickle file
+somefile
+Raja — 08/26/2023 1:41 PM
+add(file)
+set_version_location()
+timer for every 1 hour
+bibhuti mukhiya — 08/26/2023 4:25 PM
+Indians in Munich Accommodation
+Your membership is pending
+You'll be notified if your request to join is approved. 
+Raja — 08/26/2023 4:29 PM
+ok
+bibhuti mukhiya — 08/27/2023 1:29 PM
+Electric gone
+Raja — 08/27/2023 4:28 PM
+dont forget to log every 30-40 min
+bibhuti mukhiya — 08/27/2023 4:31 PM
+ok
+bibhuti mukhiya — 08/30/2023 5:00 PM
+def dayAndPayment(list_of_input):
+    list_of_input=list_of_input.split()
+    sales=[]
+    payment=[]
+    for i in range(0,len(list_of_input)):
+        if list_of_input[i]=='F':
+            sales+=[list_of_input[2+i]] 
+        if list_of_input[i]=='B':
+            payment+=[list_of_input[2+i]] 
+
+    return sales,payment   
+
+list_of_input=""" F 1 200 F 2 170 B 1 100 B 2 80 B 2 15 B 2 100 B 3 70"""
+sales_payment=dayAndPayment(list_of_input)
+sal=sales_payment[0]
+pay=sales_payment[1]
+print(sal,pay)
+for i in pay:
+    if i in sal:
+        print(i)
+
+
+
+for i in range(1,len(pay)):
+    two_sum=int(pay[0])+int(pay[i])
+    for k in range(len(sal)):
+        if int(sal[k])==two_sum:
+            del sal[k]
+
+print(sal,pay)
+for i in range(2,len(pay)):
+    three_sum=int(pay[0])+int(pay[1])+int(pay[i])
+    if str(three_sum) in sal:
+        print(three_sum)
+`
+Raja — 09/01/2023 2:21 PM
+⁠general⁠
+Image
+bibhuti mukhiya — 09/02/2023 3:46 PM
+hello dai
+explain task again set version location()
+Raja — 09/02/2023 4:06 PM
+one min
+Raja — 09/06/2023 7:58 PM
+are you making tree?
+bibhuti mukhiya — 09/06/2023 9:30 PM
+Yes
+Here, net and weather is not good.
+Raja — 09/06/2023 10:49 PM
+put the trees in the output section
+bibhuti mukhiya — 09/08/2023 12:55 PM
+i will start 3'o clock to 5 clock and 8'o clock to 11'o clock today
+Raja — 09/08/2023 1:29 PM
+ok
+bibhuti mukhiya — 09/09/2023 3:12 PM
+hello dai
+Raja — 09/09/2023 5:11 PM
+jupyter notebook
+start up run
+
+tasks
+improve self
+
+auto
+
+code reuse
+
+tools (>10)
+
+automate
+human ( forget, learning, ..)
+improve (code, reuse, )
+ 
+Raja — 09/09/2023 5:23 PM
+consistency logically
+    
+maths (highest level on consistency)
+physics (measure)
+philosophy (crude)
+bibhuti mukhiya — 09/10/2023 5:28 PM
+due to electricity goes and comes have not work well 
+8 o'clock to 11 o'clock work again 
+when will work start again ??

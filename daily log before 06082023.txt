@@ -1,0 +1,140 @@
+Raja — 06/09/2023 2:29 PM
+Here you update your status every 30 min
+I will explain more about it
+Raja — 06/11/2023 4:59 PM
+analysis level 1
+ 
+analysis result: input file read, #
+bibhuti mukhiya — 06/12/2023 11:50 AM
+reading book chapter 1
+different between:
+exercise:   question that you already know how to answer, even if the process is difficult.
+problem:  A problem is a question that you do not know how to answer, at least initially; it requires investigation. 
+bibhuti mukhiya — 06/12/2023 12:34 PM
+Auction Bidding 
+analysis level 1
+bibhuti mukhiya — 06/12/2023 2:14 PM
+2.working on code level 1
+bibhuti mukhiya — 06/12/2023 4:20 PM
+Image
+bibhuti mukhiya — 06/12/2023 5:37 PM
+Image
+bibhuti mukhiya — 06/13/2023 11:18 AM
+reading book chapter 1
+how to study this book.
+study with pencil and paper
+try to solve each example as you read it.
+ 
+bibhuti mukhiya — 06/13/2023 12:55 PM
+Auction Bidding 
+level 1
+bibhuti mukhiya — 06/13/2023 1:45 PM
+price and bid and buyer replace 
+bibhuti mukhiya — 06/13/2023 4:16 PM
+more than two buyer
+bibhuti mukhiya — 06/14/2023 10:59 AM
+chapter 1: Three Levels of Problem Solving
+bibhuti mukhiya — 06/14/2023 11:32 AM
+Three Levels of Problem Solving:
+At beginner state,  best way to do in simple way or a more organized approach. 
+First, think strategically. Don't try immediately to solve the problem, but instead think 
+about it on a less focused level.
+1.first investigation 
+2.randomly try whatever comes into head.
+3.The goal of strategic thinking is to come up with a plan  which leads to an "improved" situation. 
+bibhuti mukhiya — 06/14/2023 11:48 AM
+level 1: repeating all question in paper 
+bibhuti mukhiya — 06/14/2023 12:57 PM
+solving second last question: 15,urtyp,17,neuli,16,schlurchi,25,tokay,75,horni,35,sue,60,sue,70
+tokay is highest bid and finding at which price buy by tokay 
+bibhuti mukhiya — 06/14/2023 1:22 PM
+tokay,71
+work on code level 1:visual studio, python 
+bibhuti mukhiya — 06/15/2023 11:52 AM
+chapter 1 : From Mountaineering to Mathematics
+bibhuti mukhiya — 06/15/2023 12:30 PM
+To solve the problem:
+divide the problem into hypothesis and conclusion.
+hypothesis: the given question
+conclusion: problem to find or prove.
+1.analyze this problem
+2.reading the problem carefully
+3.strategy: try to focus on goal.
+tool : recognizing a common things.
+ 
+bibhuti mukhiya — 06/15/2023 1:05 PM
+try to store highest bid
+bibhuti mukhiya — 06/15/2023 2:30 PM
+level 1 : last question solving, make code give all answer 
+bibhuti mukhiya — 06/15/2023 3:40 PM
+start level 2: same as level 1 but there need highest bid find
+bibhuti mukhiya — 06/15/2023 4:31 PM
+use "if" only for go in each line of code 
+bibhuti mukhiya — 06/16/2023 12:00 PM
+chapter 1 : From Mountaineering to Mathematics
+undetermined coefficients is a "guess and check" 
+method for solving problem 
+chapter 1 : a problem sampler
+three type are 
+1.recreational 
+2.contest 
+3.open-ended.
+
+recreational problems
+Problems "to find" ask for a specific piece of  information, 
+while problems "to prove" require a more general argument
+Recreational activities is developed creativity and increase logical thinking. example puzzle, math games
+
+Contest Problems
+written exams with time limits by student
+
+open-ended problems 
+more than one solution 
+bibhuti mukhiya — 06/16/2023 1:14 PM
+level 2: second last question
+one buyer only 
+bibhuti mukhiya — 06/16/2023 2:25 PM
+second last question have only one bidder so highest bid is 100
+work on second last code
+bibhuti mukhiya — 06/16/2023 4:25 PM
+by comparing(==) bidder name, method trying
+bibhuti mukhiya — 06/19/2023 12:37 PM
+only one buyer bids many times is solve by list, loop and compare
+last question, one buyer bid many times and other only one times, try to solve by if statement method. 
+bibhuti mukhiya — 06/19/2023 1:25 PM
+level 2 last question, try to replace first price with new highest price 
+bibhuti mukhiya — 06/19/2023 1:59 PM
+level 2 last question, there is two buyer only bidding so extract first  bid's C and  G's bid and last bid of any.
+bibhuti mukhiya — 06/19/2023 2:55 PM
+last question complete with if statement  and replace first price with new highest price. 
+bibhuti mukhiya — 06/19/2023 3:04 PM
+analysis :level 3 question 
+bibhuti mukhiya — 06/19/2023 3:39 PM
+analysis level 3 example similar as level 1,2 but output is current price and highest price all step.
+try to solve example of level 3. 
+bibhuti mukhiya — 06/19/2023 4:30 PM
+have to store all result  and print 
+bibhuti mukhiya — 06/20/2023 12:49 PM
+level 3 trying by applying if, elif and else
+bibhuti mukhiya — 06/20/2023 1:20 PM
+re-creating logic using if, elif and else
+bibhuti mukhiya — 06/20/2023 2:00 PM
+debug and coding
+bibhuti mukhiya — 06/20/2023 5:17 PM
+trying to solve example of level 3 and code have to add more logic (if, and)
+bibhuti mukhiya — 06/21/2023 12:44 PM
+by debugging make code of level 3 example.
+bibhuti mukhiya — 06/21/2023 1:52 PM
+analysis fourth number question in paper. 
+bibhuti mukhiya — 06/21/2023 3:06 PM
+two times same price of same buyer then not repeat
+bibhuti mukhiya — 06/21/2023 4:07 PM
+analysis question number last of level 3
+bibhuti mukhiya — 06/21/2023 5:15 PM
+soving in paper
+bibhuti mukhiya — 06/22/2023 12:41 PM
+analysis question number last of level 3 again in paper
+bibhuti mukhiya — 06/22/2023 1:33 PM
+if there name buyer many times and result is name of buyer then write first current price.
+bibhuti mukhiya — 06/22/2023 2:28 PM
+coding question number 4

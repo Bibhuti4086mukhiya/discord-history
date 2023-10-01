@@ -1,0 +1,387 @@
+bibhuti mukhiya — 08/06/2023 12:40 PM
+collecting information about both tasks
+task 1: extract text and date from discord
+process:
+1
+task 2: extract link and title from bookmark
+process:
+Find the path of bookmark of chrome
+extract given name in chrome
+extract links
+ 
+bibhuti mukhiya — 08/06/2023 1:35 PM
+output:
+Find code in chat-gpt for access the bookmark path
+path of bookmark found in window explore as .json file 
+bibhuti mukhiya — 08/06/2023 1:58 PM
+analysis 1: 
+a. print bookmark element in jupiter 
+done
+b. how to same bookmark as json file
+no need to save 
+bibhuti mukhiya — 08/06/2023 2:34 PM
+analysis 2 : how can extract link and title from .json file
+output: 
+bibhuti mukhiya — 08/12/2023 1:06 PM
+analysis 2 : how can extract link and title from .json file
+first analysis: how to get data from json file in python
+finding
+JSON OBJECT  PYTHON OBJECT
+object     dict
+array      list
+string     str
+null        None
+number (int)      int
+number (real)     float
+true     True
+false      False
+
+import json
+json.loads(variable)
+print()
+
+output: url and title is printed 
+bibhuti mukhiya — 08/12/2023 1:43 PM
+analysis: try to print all title and url
+if title is not named then renamed.
+output: 
+print all
+if title is null then expect for now
+ 
+bibhuti mukhiya — 08/12/2023 2:25 PM
+analysis : try to store in json file
+output : last item only show in json formate 
+bibhuti mukhiya — 08/12/2023 4:32 PM
+analysis :  last item only show in json formate and try to add using loop
+output : all item print in json format 
+bibhuti mukhiya — 08/12/2023 4:59 PM
+save in json file
+bibhuti mukhiya — 08/13/2023 12:56 PM
+first manage code in function
+done 
+bibhuti mukhiya — 08/13/2023 1:47 PM
+task 1: extract text and date from discord
+analysis: how to select channel
+process:
+input: channel id
+output comes : data and text extract from discord 
+bibhuti mukhiya — 08/13/2023 2:39 PM
+analysis: explore discord from inspect
+output : extract with beautifulshop 
+bibhuti mukhiya — 08/13/2023 4:18 PM
+challengence : needed page not showing , main page only showing
+analysis: try to access needed page or print 
+bibhuti mukhiya — 08/19/2023 12:49 PM
+task 1: extract text and date from discord
+process : discord api 
+bibhuti mukhiya — 08/19/2023 1:27 PM
+searching how can extract text from discord 
+bibhuti mukhiya — 08/19/2023 3:10 PM
+how can extract discord chat:
+output:
+Discord Bots:
+If you have programming knowledge, you can create a Discord bot that accesses the channel's messages using the Discord API. This way, you can automate the process of extracting messages. The bot can then save the messages to a file or a database.
+
+Data Exporting:
+Discord provides an option to export your data, including messages, through their Data Privacy settings. You can request an export of your data, and Discord will provide you with a downloadable file containing your chat history.
+
+Web Scraping:
+If you're familiar with web scraping techniques, you might be able to extract chat messages from the Discord web interface. However, keep in mind that web scraping might be against Discord's Terms of Service, so proceed cautiously. 
+bibhuti mukhiya — 08/19/2023 4:36 PM
+analysis:  ModuleNotFoundError: No module named 'discord.ext'; 'discord' is not a package
+error not solve
+process:
+1.tried install to discord.ext but not success
+trying to run """from discord.ext import commands""" and print(commands)
+solve due to file name discord.py same rename d.py 
+bibhuti mukhiya — 08/19/2023 5:00 PM
+analysis : bot = commands.Bot(command_prefix='!general')
+TypeError: BotBase.init() missing 1 required keyword-only argument: 'intents'
+ output : solve by intents # This enables your bot to receive message content 
+bibhuti mukhiya — 08/19/2023 5:07 PM
+analysis : RuntimeError: Event loop is closed
+output: 
+bibhuti mukhiya — 08/20/2023 12:52 PM
+analysis : using chatgpt for guide to build 
+output:
+Create a Discord Bot:
+Invite the Bot to Your Server:
+ 
+bibhuti mukhiya — 08/20/2023 1:42 PM
+Invite the Bot to Your Server:
+output:
+Under "OAuth2 URL Generator," select the "bot" scope and the necessary permissions your bot will need (such as read messages, read message history, etc.).
+Copy the generated URL and open it in a browser to invite the bot to your server.
+output : not generated url 
+bibhuti mukhiya — 08/20/2023 3:02 PM
+trying other approaches 
+output: 
+1.login as bibhuti 
+bibhuti mukhiya — 08/20/2023 3:51 PM
+trying to print message from channel
+output: 
+bibhuti mukhiya — 08/23/2023 1:39 PM
+analysis: how to print message from channel
+analysis: discord.errors.PrivilegedIntentsRequired tying to solve
+output : enable MESSAGE CONTENT INTENT of bot 
+bibhuti mukhiya — 08/23/2023 2:54 PM
+analysis: discord.gateway Shard ID None has connected to Gateway (Session ID: )
+output: indicates that a shard of your Discord bot has successfully connected to the Discord Gateway.
+bibhuti mukhiya — 08/23/2023 3:01 PM
+analysis: still not printed message
+finding: analysis that take long time to print 
+output : not print 
+bibhuti mukhiya — 08/23/2023 4:32 PM
+analysis : finding approaches for access the message
+1.developer mode on 
+bibhuti mukhiya — 08/24/2023 1:24 PM
+analysis : access message
+finding : how to run code
+output: 
+bibhuti mukhiya — 08/24/2023 10:53 PM
+Asynchronous programming is a technique that enables your program to start a potentially long-running task and still be able to be responsive to other events while that task runs, rather than having to wait until that task has finished. Once that task has finished, your program is presented with the result
+bibhuti mukhiya — 08/25/2023 12:42 PM
+analysis : Asynchronous programming
+finding: asynchronous programming, where the OS is not participating. As far as OS is concerned, one process and  going to be a single thread within that process, but able to do multiple things at once.
+Asynchronous programming in which we can execute more than one task without blocking the Main task (function).
+types
+An event loop manages and distributes the execution of different tasks. It registers them and handles distributing the flow of control between them.
+Coroutines (covered above) are special functions that work similarly to Python generators, on await they release the flow of control back to the event loop. A coroutine needs to be scheduled to run on the event loop, once scheduled coroutines are wrapped in Tasks which is a type of Future.
+Futures represent the result of a task that may or may not have been executed. This result may be an exception.
+ 
+bibhuti mukhiya — 08/25/2023 1:21 PM
+analysis : Asynchronous programming example
+output:
+An event loop is like a manager for tasks in a to-do list. It keeps track of the tasks and decides which one to work on next.
+Coroutines are special tasks that can pause and let other tasks run. Imagine you're cooking, and while waiting for water to boil, you can chop vegetables.
+When you want to do a coroutine, you tell the manager (event loop) to do it. It puts the task on the list and decides when to run it.
+When the coroutine runs, it's like the manager has given you a "Task" badge. You do the task, and when you're done, you give the badge back to the manager.
+Futures are like placeholders for tasks that might not be done yet. They can hold the result of a task, like a recipe that's either done or has an error.
+ 
+bibhuti mukhiya — 08/25/2023 2:22 PM
+analysis : blog of stack flow. how to run code 
+bibhuti mukhiya — 08/25/2023 2:38 PM
+using 3th approaches : Web Scraping to extract data from discord
+finding: 
+authorization
+output:
+Go to inspect
+Go to network
+select any of NAME option, select header there are general ,response headers, and request headers.
+in request header, there is authorization like MTE0MDI0MDEwMDAwNjA1MTk1MQ.GK_aYX.w0uBUeVXHUugd31cXrbxrv-EB3822boVXIjarQ
+in NAME option there is "messages?limit=50" there  is found api in GENERAL header
+found request URL copy "https://discord.com/api/v9/channels/1126020027632586772/messages?limit=50"
+ 
+bibhuti mukhiya — 08/25/2023 4:40 PM
+finding: developer mode for copy channel id
+process to on developer mode of discord
+go to setting
+scroll and find  advanced  and open
+enable the developer mode
+ 
+bibhuti mukhiya — 08/26/2023 12:51 PM
+analysis : extract data from json file
+not need to do 
+bibhuti mukhiya — 08/26/2023 2:15 PM
+analysis : version control
+recording changes and track code of modification
+output : local version control system in computer 
+bibhuti mukhiya — 08/26/2023 3:23 PM
+finding: process in copy
+output: approaches 1
+write a program that store a program in local computer example like local version control system
+input path of program
+that program will do:
+make a file with last name and add _1 ex: last_name_1.py
+read and paste in last_name_1.py file
+same file again upload then 
+make file that name is like last_name_2.py
+compare code and find modification code
+ 
+bibhuti mukhiya — 08/26/2023 4:44 PM
+work on: approaches 1
+bibhuti mukhiya — 08/27/2023 2:50 PM
+analysis: bakery level 3
+approaches 1:
+writing process in copy
+1.John can pay in 4 times
+2.day is limit 
+3.first single check day match to   payment if match then remove that number
+4.sum two payment try to match with day 
+5.sum three payment match to day
+6.sum four payment match to day 
+7.when match that number remove 
+8.write that number which not full payment 
+bibhuti mukhiya — 08/30/2023 1:27 PM
+work on: approaches 1, : bakery level 3 08/27/2023 2:50 PM
+bibhuti mukhiya — 08/30/2023 2:22 PM
+doing in copy code
+bibhuti mukhiya — 08/30/2023 3:22 PM
+first make a list sales and payment
+bibhuti mukhiya — 09/01/2023 1:23 PM
+approaches 1
+1.write a program that store a program in local computer example like local version control system
+2.input path of program
+3.that program will do:
+a.make a file with last name and add _1 ex: last_name_1.py
+b.read and paste in last_name_1.py file
+c.same file again upload then 
+d.make file that name is like last_name_2.py
+e.compare code and find modification code 
+bibhuti mukhiya — 09/01/2023 2:00 PM
+3.a trying of add _01.py for create file.
+1.search there is 01 or not 
+output: if not then add 01.py 
+bibhuti mukhiya — 09/01/2023 2:49 PM
+solving : type(int or str) of extract last two letter
+done 
+bibhuti mukhiya — 09/01/2023 3:38 PM
+increasing number of copy like 01,02,03
+done 
+bibhuti mukhiya — 09/01/2023 4:16 PM
+adding the number to file name
+done 
+bibhuti mukhiya — 09/01/2023 4:37 PM
+access file on the file
+using os
+done 
+bibhuti mukhiya — 09/02/2023 12:57 PM
+3.b.read and paste in last_name_1.py file
+output: read and paste but not in required file 
+bibhuti mukhiya — 09/02/2023 2:11 PM
+copy and paste for first file
+done
+find to solve: split with .py and extract last two letter
+done 
+bibhuti mukhiya — 09/02/2023 3:06 PM
+local version control system in computer
+output:⁠output⁠ 
+bibhuti mukhiya — 09/02/2023 4:00 PM
+timer for every 1 hour
+work later 
+bibhuti mukhiya — 09/02/2023 4:26 PM
+1.there is file name that have fixed location.
+2.if there is any modification then auto create file in local version location
+output: finding approaches 
+bibhuti mukhiya — 09/03/2023 1:24 PM
+1.there is file name that have fixed location.
+2.if there is any modification then auto create file in local version location
+output : approaches 1 github 
+bibhuti mukhiya — 09/03/2023 2:01 PM
+known :
+1.git init  ---- that create a .git file 
+git add . ---- add file
+git -m "commit"---- modification
+git log ---- what are the commit
+output: can watch commit name with git log 
+bibhuti mukhiya — 09/03/2023 2:28 PM
+.git file have all information like time and commit name
+output :process 
+1.mannual access the .git file / logs / head 
+2.head file have commit name 
+bibhuti mukhiya — 09/03/2023 2:57 PM
+finding:
+Timestamp To Date Converter
+http://timestamp.online/timestamp/%7Byour-timestamp%7D 
+bibhuti mukhiya — 09/03/2023 3:42 PM
+approaches 1
+1 read HEAD file 
+extract commit
+extract time
+if anything change in HEAD file then auto create new file in some location 
+bibhuti mukhiya — 09/03/2023 4:59 PM
+process :
+1.countdown 1 hour 
+in every 1 hour os.start file run automatic for check git commit
+3.if there is git commit then make a new file
+bibhuti mukhiya — 09/03/2023 5:18 PM
+path as input provide location of .gits file and program
+auto-update program will check for commit  if commit 
+a. countdown 1 hour
+b. auto run after 1 hour
+c. check update of commit
+create new file in local version control
+4. 
+bibhuti mukhiya — 09/06/2023 1:36 PM
+level 3 catcoder bakery
+use approaches 1
+1.John can pay in 4 times
+2.day is limit 
+3.first single check day match to   payment if match then remove that number
+4.sum two payment try to match with day 
+5.sum three payment match to day
+6.sum four payment match to day 
+7.when match that number remove 
+8.write that number which not full payment 
+bibhuti mukhiya — 09/06/2023 2:27 PM
+make a two list with sales and payment
+ex: sales ['200', '170']
+payment ['100', '80', '15', '100', '70']
+
+if any sum is match from payment then remove that numbers
+but error comes in loop 
+trying to solve loop: list is out of range 
+bibhuti mukhiya — 09/07/2023 12:45 PM
+if any sum is match from payment then remove that numbers
+bibhuti mukhiya — 09/07/2023 1:37 PM
+while remove element of list problem occurred list is out of range.
+finding: solve for two digit 
+bibhuti mukhiya — 09/07/2023 3:16 PM
+level 3 bakery example solve
+bibhuti mukhiya — 09/07/2023 4:21 PM
+try to testing catcoder problem
+output : work for example only now 
+bibhuti mukhiya — 09/07/2023 5:06 PM
+need to find next approaches
+bibhuti mukhiya — 09/08/2023 3:53 PM
+analysis : try to understand the project
+finding: approaches 2
+output :
+provide path of the some file.
+while first provide path of code then 
+0 make folder
+1 git init auto
+2 git commit auto like first_commit_1
+3 read code and copy and paste on some location with name like project_01.py
+4 save provide path and countdown start after 1 hour make other project_02.py
+5 if there more than 20 file then auto delete 
+bibhuti mukhiya — 09/08/2023 4:51 PM
+working on approaches 2
+bibhuti mukhiya — 09/08/2023 8:50 PM
+testing : create file, access file with os.walk()
+bibhuti mukhiya — 09/08/2023 10:16 PM
+process:
+first create folder of file name
+then do git init auto
+bibhuti mukhiya — 09/08/2023 11:45 PM
+finding: using previous code of file create with file number way
+output: 
+bibhuti mukhiya — 09/09/2023 1:04 PM
+finding: create first file with provide one path 
+bibhuti mukhiya — 09/09/2023 3:00 PM
+done: file create with git and file_01.py by providing file path
+bibhuti mukhiya — 09/09/2023 3:21 PM
+analysis:4 save provide path and countdown start after 1 hour make other project_02.py
+5 if there more than 20 file then auto delete
+output : 4 number not complete but get idea to run automatically
+process:
+1  (Win + R) and type "taskschd.msc".
+2 "Create Basic Task."
+3  set a name and description f
+4 Choose "Daily"
+5 Set the start date and time 
+6 Choose "Start a Program"
+7 Browse and select your Python script file. 
+bibhuti mukhiya — 09/09/2023 4:22 PM
+try to do with code same task 
+bibhuti mukhiya — 09/10/2023 3:55 PM
+analysis : update without git
+output : working with chatgpt generate code
+⁠output⁠ 
+bibhuti mukhiya — 09/10/2023 9:32 PM
+working on git code 
+analysis : any change in code then auto commit after 20 seconds 
+bibhuti mukhiya — 09/10/2023 10:16 PM
+working with chatgpt code
+analysis: Exception has occurred: PermissionError
+output : not solve 

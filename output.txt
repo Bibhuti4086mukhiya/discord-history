@@ -1,0 +1,41 @@
+bibhuti mukhiya — 09/02/2023 3:58 PM
+Let’s suppose you have written 100 lines of code and you saved it with the name “Folder 1” and then after someday you thought of adding or changing something in it but you don’t want to disturb the version 1 directory so you created a new directory “Folder 2” and copied all the code of version 1 in it and started working on it, but after the modification, you saw that the code is not working properly, so you revert to version 1 directory. This is how you can keep track of the files using the Local Version Control System.
+Raja — 09/09/2023 5:24 PM
+⁠art-and-craft-of-problem-solvin…⁠
+bibhuti mukhiya — 09/10/2023 4:22 PM
+import os
+import shutil
+import difflib
+
+# Define the file path you want to track
+file_path = r'C:\Users\Dell\Desktop\storage\timeline\2023\september\version_control\auto_track.py'
+
+# Define the directory to store version history
+version_history_dir = r'C:\Users\Dell\Desktop\local_version'
+
+# Function to create a backup of the file
+def backup_file(file_path, version_history_dir):
+    if not os.path.exists(version_history_dir):
+        os.makedirs(version_history_dir)
+    backup_path = os.path.join(version_history_dir, f'version_{len(os.listdir(version_history_dir)) + 1}_{file_path}')
+    shutil.copyfile(file_path, backup_path)
+    print(f'Backup created: {backup_path}')
+
+# Function to compare two files and display differences
+def show_file_diff(file1, file2):
+    with open(file1, 'r') as f1, open(file2, 'r') as f2:
+        diff = difflib.unified_diff(f1.readlines(), f2.readlines(), lineterm='')
+        print('\n'.join(diff))
+
+# Create an initial backup
+backup_file(file_path, version_history_dir)
+
+while True:
+    input("Press Enter to check for changes...")
+    
+    # Check if the file has been modified
+    if os.path.exists(file_path):
+        show_file_diff(file_path, os.path.join(version_history_dir, f'version_{len(os.listdir(version_history_dir))}_{file_path}'))
+        backup_file(file_path, version_history_dir)
+    else:
+        print(f"The file '{file_path}' no longer exists.")
